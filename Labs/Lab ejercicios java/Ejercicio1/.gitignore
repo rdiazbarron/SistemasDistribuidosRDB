@@ -10,6 +10,9 @@ target/
 .idea/libraries/
 *.iws
 *.iml
+# Compiled class file
+*.class
+
 *.ipr
 
 ### Eclipse ###
