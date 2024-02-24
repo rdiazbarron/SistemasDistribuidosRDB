@@ -1,0 +1,12 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(×ŸÓ‰ûÿÿÿÿ8Ö„é•İ1
+G	java:S106"+Replace this use of System.out by a logger.(Îöøú8Ö„é•İ1
+G	java:S106"+Replace this use of System.out by a logger.(ÑèÁ8×„é•İ1
+L	java:S106"+Replace this use of System.out by a logger.(Ìğˆ¾øÿÿÿÿ8×„é•İ1
+>	java:S131""Add a default case to this switch.(°€àâ8×„é•İ1
+L	java:S106"+Replace this use of System.out by a logger.(Ş‡şèûÿÿÿÿ8×„é•İ1
+L	java:S106"+Replace this use of System.out by a logger.(ÔÁ¨ıÿÿÿÿ8Ø„é•İ1
+G	java:S106 "+Replace this use of System.out by a logger.(»ÚŞ¶8Ø„é•İ1
+F	java:S1061"+Replace this use of System.out by a logger.(áÊí@8Ù„é•İ1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8¸ìï•İ1
