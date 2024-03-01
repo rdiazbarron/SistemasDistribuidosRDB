@@ -1,0 +1,8 @@
+
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ΫΔΪ‡ύÿÿÿÿ8ΆΧοδή1
+F	java:S106"+Replace this use of System.out by a logger.(ρίί@8©Χοδή1
+L	java:S106"+Replace this use of System.out by a logger.(—ω¦Ηψÿÿÿÿ8ªΧοδή1
+L	java:S106"+Replace this use of System.out by a logger.(»πΪ”ÿÿÿÿÿ8«Χοδή1
+F	java:S106"+Replace this use of System.out by a logger.(–·8―Χοδή1
+L	java:S106%"+Replace this use of System.out by a logger.(ύ™ψψÿÿÿÿ8²Χοδή1
