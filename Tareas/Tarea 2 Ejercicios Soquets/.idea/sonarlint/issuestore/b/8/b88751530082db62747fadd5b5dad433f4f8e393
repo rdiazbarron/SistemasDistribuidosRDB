@@ -1,0 +1,13 @@
+
+W
+java:S1141#"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿÑ†¤à1
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8Öï¤¤à1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Öï¤¤à1
+G	java:S106"+Replace this use of System.out by a logger.(¸ÆİÇ8Ò†¤à1
+G	java:S106"+Replace this use of System.out by a logger.(ê®í8Ò†¤à1
+G	java:S106"+Replace this use of System.out by a logger.(õˆÅ·8Ò†¤à1
+H
+java:S1874$"+Remove this use of "URL"; it is deprecated.(´©Í„8’Ò†¤à1
+L	java:S1061"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8”Ò†¤à1

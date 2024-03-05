@@ -1,0 +1,16 @@
+
+l
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8Ÿ–®à1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ÿ–®à1
+G	java:S106"+Replace this use of System.out by a logger.(¸ÆİÇ8ïŸà1
+G	java:S106"+Replace this use of System.out by a logger.(ê®í8ğŸà1
+G	java:S106"+Replace this use of System.out by a logger.(õˆÅ·8ñŸà1
+X	java:S1252"<This block of commented-out lines of code should be removed.(®İÒ8óŸà1
+L	java:S106A"+Replace this use of System.out by a logger.(’Öºõıÿÿÿÿ8ôŸà1
+L	java:S106H"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8õŸà1
+Q
+java:S1128	"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8©–®à1
+V
+java:S1128
+"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8©–®à1
