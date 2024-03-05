@@ -27,3 +27,17 @@ Y
 )src/main/java/org/example/ServerSUMA.java,2\f\2f7799d80d2461216b3655b1de033d9ae1e76b20
 Z
 *src/main/java/org/example/ClienteSUMA.java,d\f\df4a3769ee8fe3de90d2fa66052ae126d07b6657
+l
+<src/main/java/org/example/Ejercicio1/ClienteOperaciones.java,1\6\16ce8d323fdbb2124d38824540fd69b17bf7acff
+k
+;src/main/java/org/example/Ejercicio1/ServerOperaciones.java,3\e\3e3acc0b66f756a0079dd80f83ed25e86db8f4ed
+h
+8src/main/java/org/example/Ejercicio2/ClienteIdiomas.java,b\0\b06f369820df696c0455c49f13703729be2c8845
+g
+7src/main/java/org/example/Ejercicio2/ServerIdiomas.java,d\4\d49fbb7518db23c3675d1ef3020faecd7d0aff15
+d
+4src/main/java/org/example/Ejercicio3/ClienteURL.java,1\2\1274478fadbf89fbda24f3e708e2918c10908074
+f
+6src/main/java/org/example/Ejercicio4/ClienteDRIVE.java,3\9\39ca6da764bee79087b973b44086592a01476bf9
+e
+5src/main/java/org/example/Ejercicio4/ServerDRIVE.java,1\2\127e0d9aad2edf93930ae416fd568435227f54c7

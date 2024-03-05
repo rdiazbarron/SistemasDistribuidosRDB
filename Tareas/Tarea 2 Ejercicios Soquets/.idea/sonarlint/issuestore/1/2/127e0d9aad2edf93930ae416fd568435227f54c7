@@ -1,0 +1,19 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¤Ñ±8‚»­äà1
+D
+java:S2189$""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¶²˜Ğà1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ø­Úü8¸²˜Ğà1
+L	java:S106""+Replace this use of System.out by a logger.(úšèçÿÿÿÿÿ8¼²˜Ğà1
+L	java:S106)"+Replace this use of System.out by a logger.(æ™Êÿùÿÿÿÿ8¾²˜Ğà1
+G	java:S106,"+Replace this use of System.out by a logger.(ûØß8¿²˜Ğà1
+S
+java:S1874C"6Remove this use of "JacksonFactory"; it is deprecated.(·‰Ñ8Ç²˜Ğà1
+S
+java:S1874J"6Remove this use of "JacksonFactory"; it is deprecated.(Ñöüı8¾¥ãĞà1
+S
+java:S1874U"6Remove this use of "JacksonFactory"; it is deprecated.(êÉ½Ó8Ñ¥©Ñà1
+`
+java:S1128	"CRemove this unused import 'com.google.api.client.json.JsonFactory'.(•èí¬8äÛßÑà1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8åÛßÑà1
