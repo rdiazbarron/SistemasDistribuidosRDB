@@ -1,4 +1,4 @@
-package org.example.Ejercicio1;
+package org.example.EjerciciosEnClases;
 
 import java.io.*;
 import java.net.Socket;

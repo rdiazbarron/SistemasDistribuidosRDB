@@ -1,4 +1,4 @@
-package org.example.Ejercicio1;
+package org.example.EjerciciosEnClases;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
