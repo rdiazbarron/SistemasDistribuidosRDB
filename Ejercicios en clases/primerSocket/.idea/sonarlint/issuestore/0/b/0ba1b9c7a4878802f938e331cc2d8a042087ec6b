@@ -1,10 +1,0 @@
-
-l
-java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8éì—¶ß1
-D
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ı·ò½ß1
-G	java:S106"+Replace this use of System.out by a logger.(¸ÆİÇ8ìì—¶ß1
-G	java:S106"+Replace this use of System.out by a logger.(ê®í8…¸ò½ß1
-G	java:S106"+Replace this use of System.out by a logger.(õˆÅ·8†¸ò½ß1
-L	java:S106)"+Replace this use of System.out by a logger.(’Öºõıÿÿÿÿ8Š¸ò½ß1
-L	java:S106-"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8‹¸ò½ß1

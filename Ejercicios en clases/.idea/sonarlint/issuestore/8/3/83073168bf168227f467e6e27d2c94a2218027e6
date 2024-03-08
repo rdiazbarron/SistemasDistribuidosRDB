@@ -1,0 +1,15 @@
+
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8×©Íá1
+Ö
+java:S1598"³This file "ClienteTCP.java" should be located in "soquettcp" directory, not in "C:\xampp\htdocs\SistemasDistribuidosRDB\Ejercicios en clases\src\main\java\org\example\Ejercicio1".(‹šÏ¦ÿÿÿÿÿ8×©Íá1
+a
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(òÃÌç8óĞá1
+D
+java:S2189!""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ºá‘³á1
+F	java:S106 "+Replace this use of System.out by a logger.(Ú«¹8ä©Íá1
+L	java:S106#"+Replace this use of System.out by a logger.(ÊÊÃÿÿÿÿÿ8ı…‚³á1
+G	java:S106'"+Replace this use of System.out by a logger.(ÿªÇÕ8Áá‘³á1
+L	java:S106,"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8Áá‘³á1
+Q
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8–óĞá1

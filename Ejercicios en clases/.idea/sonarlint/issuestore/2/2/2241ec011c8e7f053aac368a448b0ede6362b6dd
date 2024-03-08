@@ -1,0 +1,11 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Ôùb8®üœ¨á1
+l
+java:S2095 "JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8¿üœ¨á1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Ìûû8Äüœ¨á1
+G	java:S106!"+Replace this use of System.out by a logger.(¡—ş†8Éüœ¨á1
+L	java:S106$"+Replace this use of System.out by a logger.(„õ™Âøÿÿÿÿ8Êüœ¨á1
+F	java:S1060"+Replace this use of System.out by a logger.(±ƒ…q8Îüœ¨á1
+G	java:S1062"+Replace this use of System.out by a logger.(şã¡Ÿ8Îüœ¨á1
+L	java:S1068"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8Ğüœ¨á1
