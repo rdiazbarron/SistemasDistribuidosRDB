@@ -1,19 +1,19 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8èô¥Üá1
-G	java:S106"+Replace this use of System.out by a logger.(ëŠ¢Ğ8Šõ¥Üá1
-F
-java:S2140;")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8‹õ¥Üá1
-F
-java:S2140<")Use "java.util.Random.nextInt()" instead.(êç­8Œõ¥Üá1
-F
-java:S2140B")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8Œõ¥Üá1
-F
-java:S2140C")Use "java.util.Random.nextInt()" instead.(êç­8Œõ¥Üá1
-F
-java:S2140I")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8õ¥Üá1
-F
-java:S2140J")Use "java.util.Random.nextInt()" instead.(êç­8õ¥Üá1
-F
-java:S2140O")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8õ¥Üá1
-F
-java:S2140P")Use "java.util.Random.nextInt()" instead.(êç­8õ¥Üá1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8èô¥Üá1J$87056b1a-6ee7-44b8-94a3-32ac0b8edbf6
+m	java:S106"+Replace this use of System.out by a logger.(ëŠ¢Ğ8Šõ¥Üá1J$c92fd210-0554-41f2-92bc-3d66ac372474
+l
+java:S2140;")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8‹õ¥Üá1J$a83e6038-67aa-426b-b3c7-3d911f56e673
+l
+java:S2140<")Use "java.util.Random.nextInt()" instead.(êç­8Œõ¥Üá1J$2f12b6d8-9098-4a34-901b-65680f8e9a02
+l
+java:S2140B")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8Œõ¥Üá1J$cd42518a-c0e3-4c94-9424-8bcf2b803c48
+l
+java:S2140C")Use "java.util.Random.nextInt()" instead.(êç­8Œõ¥Üá1J$81978ec0-cbbe-4fce-8c5e-01f112d8cfb6
+l
+java:S2140I")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8õ¥Üá1J$99a95cac-73e9-4378-ba5e-8a1493eecfc6
+l
+java:S2140J")Use "java.util.Random.nextInt()" instead.(êç­8õ¥Üá1J$ac273570-70f3-4ac5-a0fc-84fcb46b1ce4
+l
+java:S2140O")Use "java.util.Random.nextInt()" instead.(Ÿ˜î8õ¥Üá1J$f16a9ab6-8502-4b18-8232-54235baccf9f
+l
+java:S2140P")Use "java.util.Random.nextInt()" instead.(êç­8õ¥Üá1J$17b9d421-fe43-4981-9d5c-ec4647774305

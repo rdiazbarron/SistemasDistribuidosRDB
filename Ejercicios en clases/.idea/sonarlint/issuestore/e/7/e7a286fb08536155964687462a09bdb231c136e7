@@ -1,0 +1,17 @@
+
+p
+java:S1604"(Make this anonymous inner class a lambda(üşƒòùÿÿÿÿ8ÀÌîƒã1J$e7cbd2b8-0d99-4ca9-91a8-e4521b561649
+k
+java:S1604'"(Make this anonymous inner class a lambda(™ß•ä8ÀÌîƒã1J$2730d923-c9d3-4605-ad35-b7e549581e8e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8ÁÌîƒã1J$214e0c8a-3147-4a4f-bbeb-c2a55f60868a
+Š
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ÀİÃÈ8¼’ñƒã1J$2d8c99cb-f458-4950-96ca-1d0dbf006a4c
+Œ
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ8ÊÌîƒã1J$e4569ac1-032c-425c-aaa2-f66ce2178b47
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÊÌîƒã1J$0f43c3e1-6ed1-4f87-8d8f-d4572cb77e38
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œû¿Ø8É’ñƒã1J$53e36438-ffa1-40c4-b05c-fbac70560b47
+r	java:S106"+Replace this use of System.out by a logger.(ŞÿÏùÿÿÿÿ8ÒÌîƒã1J$67dadba9-d815-4dce-9a6c-8fdefb6a443e
+r	java:S106/"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ8ÔÌîƒã1J$a6f528f7-c7b1-4111-ab2c-b47ad40ce2e6
+l	java:S1061"+Replace this use of System.out by a logger.(°ïü_8ÔÌîƒã1J$af4876d5-1091-4195-9965-8d14ea2ee00c

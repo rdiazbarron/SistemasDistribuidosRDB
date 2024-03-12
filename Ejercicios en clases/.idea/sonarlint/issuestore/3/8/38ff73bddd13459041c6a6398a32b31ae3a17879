@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8µ’×„ã1
+Œ
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ8÷”Ö„ã1J$612624ca-a9c0-490e-9955-3eadb16dfe40
+l	java:S106"+Replace this use of System.out by a logger.(‚š‰18‚•Ö„ã1J$fff693ac-6883-41e8-bb50-84b3ff8afe9a
+r	java:S106"+Replace this use of System.out by a logger.(…ÐÒÞùÿÿÿÿ8ƒ•Ö„ã1J$48a116f7-2cde-4a92-8b89-89153e53200b
+m	java:S106-"+Replace this use of System.out by a logger.(ÿÍÁÓ8…•Ö„ã1J$389cc92b-ef7d-4d17-adad-7e15a3696134
+r	java:S1062"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ8†•Ö„ã1J$e55a9a72-b7ad-4004-8709-b780acda34b7
+l	java:S1064"+Replace this use of System.out by a logger.(°ïü_8‡•Ö„ã1J$757e936d-b3ab-486c-ba38-358d410d7ec8

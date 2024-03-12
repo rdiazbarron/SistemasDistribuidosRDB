@@ -1,0 +1,30 @@
+
+¦
+java:S1104	"^Make clientesConectados a static final constant or non-public and provide accessors if needed.(µ¥³üıÿÿÿÿ8ôšÎ„ã1J$519625f2-51fe-4aeb-a618-7b16423ba3ae
+˜
+java:S1104
+"UMake preguntas a static final constant or non-public and provide accessors if needed.(Í€àÁ8õšÎ„ã1J$50cb8859-331f-4a31-8b01-ce071cccdbd8
+š
+java:S1104"XMake puntuaciones a static final constant or non-public and provide accessors if needed.(·õ’!8õšÎ„ã1J$9bcd4aae-0849-4a5a-99fd-9dececdea4f5
+€
+java:S1444	"8Make this "public static clientesConectados" field final(µ¥³üıÿÿÿÿ8õšÎ„ã1J$f7b5a9fb-a534-470b-a798-00f841b3175c
+r
+java:S1444
+"/Make this "public static preguntas" field final(Í€àÁ8õšÎ„ã1J$d7e94739-1762-4ae1-8552-4a76533e1e1f
+t
+java:S1444"2Make this "public static puntuaciones" field final(·õ’!8õšÎ„ã1J$4a271c1c-2281-4c92-ab24-699792ef06f9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8÷šÎ„ã1J$541298cd-5594-4a10-92d3-d72eec9bb8b9
+\
+java:S2259)"?A "NullPointerException" could be thrown; "s" is nullable here.(Æñ‘8£Ó§…ã1
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(®«ùú8£Ó§…ã1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¤Ó§…ã1
+?
+java:S2386	"Make this member "protected".(µ¥³üıÿÿÿÿ8¥Ó§…ã1
+:
+java:S2386
+"Make this member "protected".(Í€àÁ8âÓ§…ã1
+9
+java:S2386"Make this member "protected".(·õ’!8âÓ§…ã1
+r	java:S106"+Replace this use of System.out by a logger.(Ë¿Å¨şÿÿÿÿ8ËÎ„ã1J$9f3e5223-b183-41e2-812a-43aaf18c0b4d

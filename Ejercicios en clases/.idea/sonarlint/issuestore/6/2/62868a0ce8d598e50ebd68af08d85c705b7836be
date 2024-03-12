@@ -1,4 +1,10 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—
-L	java:S106"+Replace this use of System.out by a logger.(‡¯õÓıÿÿÿÿ8‰½éÕá1
-L	java:S106"+Replace this use of System.out by a logger.(åÌ‹ÿÿÿÿÿ8Š½éÕá1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—J$87b8e7f6-8618-45f0-bb6e-76605f159bf2
+‚
+java:S2259&"?A "NullPointerException" could be thrown; "s" is nullable here.(Æñ‘8×­šÙâ1J$3d342d48-d9e3-45d4-885c-d3a4468ed30d
+
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(®«ùú8Ø­šÙâ1J$ed935b21-c809-4e1d-8e31-6f865dab26d2
+d
+java:S2189""Add an end condition to this loop.(¤èÄ78Ù­šÙâ1J$d7e5610d-a8eb-455e-8f5c-2e72fafd23aa
+r	java:S106"+Replace this use of System.out by a logger.(‡¯õÓıÿÿÿÿ8‰½éÕá1J$9114e694-7050-4c70-b9b8-5fa80d52d47a
+r	java:S106"+Replace this use of System.out by a logger.(åÌ‹ÿÿÿÿÿ8Š½éÕá1J$cc5d0a6f-6fa4-408c-879c-5fc4807b244a
