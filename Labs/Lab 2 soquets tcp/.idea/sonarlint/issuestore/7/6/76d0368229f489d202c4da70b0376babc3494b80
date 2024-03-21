@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖîÉ¤úÿÿÿÿ8üíß‘å1J$805939ad-7974-472e-adeb-f9fa2b52c4d4
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(î‰¡Åøÿÿÿÿ8ëÕœ’å1J$ee81e45f-48f6-4976-8e39-1347266e687b
+r	java:S106"+Replace this use of System.out by a logger.(ãÏãîşÿÿÿÿ8êÒ™’å1J$5d791a10-7613-48f5-a7d6-e1333675f683
+m	java:S106"+Replace this use of System.out by a logger.(©‘Ñ©8ÓÑ±–å1J$36b24385-d2bb-4f6d-951e-a91e6d05ad06
+œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‡È…ÿÿÿÿÿÿ8¯ĞÀ’å1J$93fd11bd-0627-4104-9e80-c7734c30e748

@@ -1,0 +1,21 @@
+
+p
+java:S1604"(Make this anonymous inner class a lambda(Ä­Áøÿÿÿÿ8«ç‘óã1J$a3c690e3-3916-4acc-b028-a441eb7985fd
+p
+java:S1604("(Make this anonymous inner class a lambda(ƒƒ¥şÿÿÿÿ8«ç‘óã1J$61e85c7a-90fd-42cc-9f58-f8b4237e61ee
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯‡½8¬ç‘óã1J$9e41a0a6-bd77-48b4-9bea-72c4b101e150
+Œ
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ8Øç‘óã1J$0df9a697-92d7-4462-aa6a-c50f95e653a8
+j
+java:S2189+""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Øç‘óã1J$3c4588f8-8cbd-4a60-b1cf-7ac504f261f1
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ùç‘óã1J$6bf07107-4268-4660-9734-4a111fb23812
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(œû¿Ø8Ûç‘óã1J$df044c13-6343-4761-956a-5c344248e0d8
+r	java:S106"+Replace this use of System.out by a logger.(ÀØ«ùúÿÿÿÿ8àç‘óã1J$0e32cc2c-3dfa-45d8-babb-a6ff8992a264
+	java:S128;"LEnd this switch case with an unconditional break, return or throw statement.(¡È›8ãç‘óã1J$1c06483b-3e0f-4741-820b-11cda124cc5a
+i	java:S131.""Add a default case to this switch.(‰ª¦Çıÿÿÿÿ8ãç‘óã1J$3d27adf3-c5e0-49f4-8de2-e0bfe0fb2255
+r	java:S1062"+Replace this use of System.out by a logger.(‰¦Ûşÿÿÿÿ8ãç‘óã1J$0750ae3e-3428-448c-bed1-09d82c028c85
+r	java:S1067"+Replace this use of System.out by a logger.(Û—áúÿÿÿÿÿ8äç‘óã1J$77a97269-8344-40d1-9764-7254b1e3b5d4
+r	java:S106?"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ8äç‘óã1J$45a6abfc-603d-4f89-aeb0-166e905b880e
+l	java:S106A"+Replace this use of System.out by a logger.(°ïü_8äç‘óã1J$b60d15f6-ab73-47ff-afce-9eb3d3c8c544

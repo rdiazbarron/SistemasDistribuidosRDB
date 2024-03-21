@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÒÌÏÿÿÿÿÿ8ªÏª‘æ1J$135bfb5b-95ef-4130-91f9-43be2ef4bb3c
+m	java:S106"+Replace this use of System.out by a logger.(å™È²8ÄÏª‘æ1J$697159fe-fb8b-41a2-ae4e-aa2dc308c64c
+l	java:S106"+Replace this use of System.out by a logger.(²¬ÙT8ÆÏª‘æ1J$9e2dbd67-41d0-4de9-a633-e38848f0d27b
+r	java:S106"+Replace this use of System.out by a logger.(…Ë˜üüÿÿÿÿ8ÆÏª‘æ1J$ef320cbd-d9b5-48e4-ad4a-aafd02287bcc
+r	java:S106"+Replace this use of System.out by a logger.(†ô®áıÿÿÿÿ8ÆÏª‘æ1J$70edce74-08b1-49c0-96dd-66a1519424ff
+r	java:S106 "+Replace this use of System.out by a logger.(ÂÚ¼úÿÿÿÿ8ÆÏª‘æ1J$3c2dfb4b-4094-40f7-8462-9154dd1ab347
+m	java:S1060"+Replace this use of System.out by a logger.(Áœà8ÈÏª‘æ1J$ba496f62-5b74-42a9-b739-0309bc891f92
+m	java:S1062"+Replace this use of System.out by a logger.(‡¤Ÿ”8ÉÏª‘æ1J$8e2f03c4-cd08-4ba3-9fc5-c7270d2f202b
+m	java:S106:"+Replace this use of System.out by a logger.(ã‰”İ8…²Ã“æ1J$e847e865-1de1-4f4c-8015-2e7d669d5b4d
+–
+java:S1128"SRemove this unused import 'org.example.EjerciciosEnClases.RMIPagos.IServicioCessa'.(Œ©ÕÕ8Îé•æ1J$52c5cf21-9911-4fdf-b932-b06118515479
+›
+java:S1128"SRemove this unused import 'org.example.EjerciciosEnClases.RMIPagos.IServicioCotes'.(†²Ùôşÿÿÿÿ8Îé•æ1J$109f6734-bdf6-49eb-a10e-300e96989b49

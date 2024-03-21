@@ -1,0 +1,25 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¶è‹ûÿÿÿÿ8µ½“ñã1J$7f21e89d-03e5-4db6-b056-57cb2c4f8e88
+º
+java:S1319"rThe type of "clientesConectados" should be an interface such as "List" rather than the implementation "ArrayList".(Œ¶è‹ûÿÿÿÿ8¶½“ñã1J$0eb7529f-9157-4f6b-939e-705c0555984d
+¦
+java:S1104"^Make clientesConectados a static final constant or non-public and provide accessors if needed.(Œ¶è‹ûÿÿÿÿ8·½“ñã1J$0f9edbac-6300-4c8e-a573-a8896b90666a
+€
+java:S1444"8Make this "public static clientesConectados" field final(Œ¶è‹ûÿÿÿÿ8·½“ñã1J$3918a93d-47e9-42e9-8f20-bbb51d22c748
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯‡½J$e09473d4-7ae2-41ac-8c8c-3ad06b227b72
+\
+java:S2259)"?A "NullPointerException" could be thrown; "s" is nullable here.(Æñ‘8²Øëóã1
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(®«ùú8³Øëóã1
+>
+java:S2189""Add an end condition to this loop.(¤èÄ78³Øëóã1
+?
+java:S2386"Make this member "protected".(Œ¶è‹ûÿÿÿÿ8µØëóã1
+r	java:S106"+Replace this use of System.out by a logger.(‡¯õÓıÿÿÿÿ8ö½“ñã1J$87284764-c3eb-4e13-be20-ff128d5294af
+r	java:S106 "+Replace this use of System.out by a logger.(ºˆæ·ûÿÿÿÿ8ö½“ñã1J$c724f644-d207-4d5c-b776-2d9b7321eb13
+[
+java:S2438""9Replace "mc" of type Thread with an instance of Runnable.(ªÑ«ğÿÿÿÿÿ8¾Øëóã1
+r	java:S106$"+Replace this use of System.out by a logger.(”á™æøÿÿÿÿ8ø½“ñã1J$03b7af3c-c723-4c6f-8abe-6125f1f74075
+p
+java:S1128"NRemove this unused import 'org.example.EjerciciosEnClases.ManejadorClienteP1'.(…Şîúÿÿÿÿ8ÀØëóã1

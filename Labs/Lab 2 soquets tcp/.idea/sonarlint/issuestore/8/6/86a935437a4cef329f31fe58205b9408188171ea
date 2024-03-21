@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÖîÉ¤úÿÿÿÿ8¨œßõã1J$1a98e45e-5cfa-45af-8412-95300acba0a9
+œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(‡È…ÿÿÿÿÿÿ8ÓÄÔ‘å1J$55581333-d5a1-4fc1-8c85-1ae11338d4d4
+†
+java:S1128"CRemove this unused import 'java.rmi.server.RMIClientSocketFactory'.(ˆÁ‘ş8ÓÄÔ‘å1J$9adf2ac4-8831-47f5-8dfc-50a61d499d8e
+‹
+java:S1128"CRemove this unused import 'java.rmi.server.RMIServerSocketFactory'.(ÙŠ×Şşÿÿÿÿ8ÓÄÔ‘å1J$7a3bc10e-f976-4c33-af5f-0283b3ea7c6f

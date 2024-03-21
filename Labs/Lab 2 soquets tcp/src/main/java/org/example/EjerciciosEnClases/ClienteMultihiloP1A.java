@@ -22,10 +22,8 @@ public class ClienteMultihiloP1A {
                 @Override
                 public void run() {
                     while (true) {
-
                         try {
                             String mensaje = dis.readUTF();
-                            if(mensaje.equals(""))
                             System.out.println("Servidor dice: " + mensaje);
                         } catch (IOException e) {
                             e.printStackTrace();
@@ -42,7 +40,7 @@ public class ClienteMultihiloP1A {
                     while (true) {
                         String mensaje = sc.nextLine();
                         try {
-                            dos.writeUTF(mensaje);
+                            dos.writeUTF(s.getLocalAddress()+" "+mensaje);
                             if(mensaje.equals("salir")){
                                 System.out.println("Cerrando esta conexión : " + s);
                                 s.close();

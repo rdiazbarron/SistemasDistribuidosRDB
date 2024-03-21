@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ²Ç¿ıÿÿÿÿ8ÚÍå1J$c1be1475-05fd-40a9-a673-b9ec7d413c39
+m	java:S106"+Replace this use of System.out by a logger.(·ãÔ8íÍå1J$6083837d-1fb3-4090-a1ae-56d09f5ab89b
+m	java:S106"+Replace this use of System.out by a logger.(áÄô«8íÍå1J$0ca6b09f-4f19-4186-b31a-47a68fe7573a
+r	java:S106"+Replace this use of System.out by a logger.(¼âˆĞÿÿÿÿÿ8íÍå1J$23fa0851-1e39-4a8d-9d53-9b22d8d9d025
+l	java:S106"+Replace this use of System.out by a logger.(æÈ®8îÍå1J$e3a4382e-61a0-4a00-9e08-96642830c818
+r	java:S106,"+Replace this use of System.out by a logger.(˜œÏ°ıÿÿÿÿ8îÍå1J$fcf4742c-c090-4ae5-b1df-6bc17116c593
+€
+java:S18545"=Remove this useless assignment to local variable "recibido2".(ĞÚ•×8ïÍå1J$369f33d5-0e82-4978-a59d-ec938d6e5d56
+
+java:S18544"<Remove this useless assignment to local variable "recibido".(åÉ÷©8ïÍå1J$5025de49-7034-4db2-80fb-266df1efdd18
+r	java:S1068"+Replace this use of System.out by a logger.(’¼ûÿÿÿÿ8ğÍå1J$f83856b2-b07a-42a6-b6ec-a825631d2f16
+r	java:S106:"+Replace this use of System.out by a logger.(£›ô÷ıÿÿÿÿ8ğÍå1J$57943d23-7617-4b7f-9b2b-09a125d2af96
+r	java:S106="+Replace this use of System.out by a logger.(ñıèÿúÿÿÿÿ8ñÍå1J$a9bdd0f6-d1f2-4566-a46c-e899ed250a30
+r	java:S106?"+Replace this use of System.out by a logger.(àÎùØûÿÿÿÿ8ñÍå1J$7ef400d6-e2b7-4691-b493-31d52153a563
+r	java:S106C"+Replace this use of System.out by a logger.(ñıèÿúÿÿÿÿ8ñÍå1J$6f48e0ef-7b64-494a-8d06-e43b585f59db
+r	java:S106H"+Replace this use of System.out by a logger.(’¼ûÿÿÿÿ8òÍå1J$671bb035-307c-4483-a685-21b8479f4ac4
+r	java:S106K"+Replace this use of System.out by a logger.(Œ¬àåıÿÿÿÿ8òÍå1J$2fa1ac07-8fe2-4909-ab1d-4221b10d582f
+r	java:S106T"+Replace this use of System.out by a logger.(ä½¼Âûÿÿÿÿ8óÍå1J$1ba4ba77-c99d-4478-a331-7e04032764dd
+l	java:S106\"+Replace this use of System.out by a logger.(­Å¾P8Óç–Íå1J$b92329c4-012c-437d-a619-b62b7a600924
+m	java:S106]"+Replace this use of System.out by a logger.(Ööâ†8Ÿ—Íå1J$c92241a8-b359-40da-8180-65083b8d1a29
+¥
+java:S1128"]Remove this unused import 'org.example.EjerciciosEnClases.RMIGestorAlumnos.IRegistroAlumnos'.(—ˆ÷úÿÿÿÿ8ùÕ—Íå1J$2db3018f-b451-4006-acaa-a252800c3edb

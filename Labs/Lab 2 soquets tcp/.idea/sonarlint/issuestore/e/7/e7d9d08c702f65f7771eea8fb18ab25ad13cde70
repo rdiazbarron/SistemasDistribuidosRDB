@@ -1,0 +1,12 @@
+
+}
+java:S1141("5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8âÉ¢ìã1J$8f7af916-ed01-4df1-9f62-a4546c9a441b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8ãÉ¢ìã1J$3f83b498-8d7f-4753-b5bd-93f546b09526
+Œ
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.( ¥œ’şÿÿÿÿ8èÉ¢ìã1J$8a9c877d-8a49-4855-9620-52189323b0e8
+r	java:S106"+Replace this use of System.out by a logger.(­ñüòûÿÿÿÿ8ğÉ¢ìã1J$8816104b-ea0f-4d83-87ee-3f213c86f820
+l	java:S106"+Replace this use of System.out by a logger.(à·˜:8ğÉ¢ìã1J$4a5b3605-c499-4da7-825f-765943818659
+m	java:S106"+Replace this use of System.out by a logger.(´Ó”8ğÉ¢ìã1J$bcf9e161-1f79-41fd-8df3-594e5a56ed16
+l	java:S106"+Replace this use of System.out by a logger.(Ä…İ8ğÉ¢ìã1J$e8a9d5c1-c9ae-4e37-b434-4116bee558bd
+¡
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ñÉ¢ìã1J$064ed121-b40e-4e34-aad6-56b812ac6ea1

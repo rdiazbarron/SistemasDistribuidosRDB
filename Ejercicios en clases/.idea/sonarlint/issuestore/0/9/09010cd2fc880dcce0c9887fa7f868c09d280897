@@ -1,0 +1,8 @@
+
+±
+java:S1319"nThe type of "facturasAPagar" should be an interface such as "List" rather than the implementation "ArrayList".(„ªİ™8ÁÔÂå1J$5caea714-f1de-424f-89f5-3b76e1adb476
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ²Ç¿ıÿÿÿÿ8‚ÁÔÂå1J$daf388b2-3a11-4d56-ad27-4f5f11be312b
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ã¢ÓÌå1J$f88e638f-3dc7-45b7-ab72-adb9aa057c07
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8å¢ÓÌå1J$49ba661a-1257-439a-ab29-ff68bd93d5ea

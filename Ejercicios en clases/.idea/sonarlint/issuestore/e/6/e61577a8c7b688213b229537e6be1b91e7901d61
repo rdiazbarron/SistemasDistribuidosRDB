@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ²Ç¿ıÿÿÿÿ8­ĞİÂå1J$75862899-682c-4a39-926d-9accf07a5f97
+¶
+java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(˜µúñ8´÷Ãå1J$ccc39c34-a4b8-4881-9ecd-70863221889b
+Ÿ
+java:S1128"\Remove this unused import 'org.example.EjerciciosEnClases.RMIGestorAlumnos.RegistroAlumnos'.(åôË8»÷Ãå1J$86394e0f-8759-4357-9b73-67067179ead8

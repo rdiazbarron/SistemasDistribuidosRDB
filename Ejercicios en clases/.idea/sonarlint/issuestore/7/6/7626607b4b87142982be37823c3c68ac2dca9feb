@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŠÀşÍ8·üõ–æ1J$4f37be38-9ea5-438e-a008-d2456d06bee0
+i
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Âıû¨8‚ìù–æ1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8‚ìù–æ1
+r
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Íüõ–æ1J$7cbf1215-7a05-4f65-b73b-62a7a20ddccb
+r	java:S106"+Replace this use of System.out by a logger.(¿Œ÷²üÿÿÿÿ8Ğüõ–æ1J$a7aa2a3b-907e-44b7-9d24-ca3d5397c0ba
+r	java:S106"+Replace this use of System.out by a logger.(äµŒóøÿÿÿÿ8Ğüõ–æ1J$bbdeb230-906d-4f87-93f0-faa7ad97c616
+
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¿èšäùÿÿÿÿ8Óüõ–æ1J$c1f763bc-f236-4635-9da4-708fd8fc6e31
+r	java:S106"+Replace this use of System.out by a logger.(¶ü‹şÿÿÿÿ8Óüõ–æ1J$06be3bad-1b26-40c7-b67c-3a46d52fc6ea
+~	java:S125""<This block of commented-out lines of code should be removed.(äèº8æ×ù–æ1J$a77e5db7-dbe5-4def-8041-c2f80120adbf
+m	java:S106."+Replace this use of System.out by a logger.(Ãî±ã8Õüõ–æ1J$d4dc0319-35f0-4152-b820-c2e8517833f4
+m	java:S1060"+Replace this use of System.out by a logger.(Ëú³©8Öüõ–æ1J$e1392057-bbca-4f05-84a1-d56a9b882041

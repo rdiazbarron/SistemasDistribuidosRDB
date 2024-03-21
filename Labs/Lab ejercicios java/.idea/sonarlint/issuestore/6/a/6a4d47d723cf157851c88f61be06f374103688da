@@ -1,13 +1,13 @@
 
-7
-java:S1659"!Declare "dep" on a separate line.(«•‡Ö
-E	java:S106"+Replace this use of System.out by a logger.(Ü”’õùÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(èå¶–
-E	java:S106"+Replace this use of System.out by a logger.(Ùœïøÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(°ˆèš
-7	java:S131""Add a default case to this switch.(°€àâ
-@	java:S106"+Replace this use of System.out by a logger.(Î‡ì¾
-E	java:S106!"+Replace this use of System.out by a logger.(¾Öâ­üÿÿÿÿ
-E	java:S106#"+Replace this use of System.out by a logger.(‹ƒìöûÿÿÿÿ
-@	java:S106*"+Replace this use of System.out by a logger.(“›
-@	java:S106/"+Replace this use of System.out by a logger.(ØÁá¿
+]
+java:S1659"!Declare "dep" on a separate line.(«•‡ÖJ$ec771aa8-ab14-479f-a712-e2055c0eca37
+k	java:S106"+Replace this use of System.out by a logger.(Ü”’õùÿÿÿÿJ$c0dbd800-eb13-4025-81b5-a1114bbc8cb6
+f	java:S106"+Replace this use of System.out by a logger.(èå¶–J$07245ce8-e7be-47a1-bf2c-a0383708b9d2
+k	java:S106"+Replace this use of System.out by a logger.(ÙœïøÿÿÿÿJ$f36e0ae8-d41c-41e2-b8ba-7ab4d38912c5
+f	java:S106"+Replace this use of System.out by a logger.(°ˆèšJ$a471db75-65f4-431d-b267-ff0f397b6960
+]	java:S131""Add a default case to this switch.(°€àâJ$763e3e3f-c6d6-4014-90a6-aa83e014ef08
+f	java:S106"+Replace this use of System.out by a logger.(Î‡ì¾J$2294624d-47f0-421b-ae6b-b0cda6e4d29a
+k	java:S106!"+Replace this use of System.out by a logger.(¾Öâ­üÿÿÿÿJ$798b22b6-8c0e-4813-bf27-b6c8c6a543b6
+k	java:S106#"+Replace this use of System.out by a logger.(‹ƒìöûÿÿÿÿJ$bc41a1c4-5c91-40f9-a41e-b8e2542c93f0
+f	java:S106*"+Replace this use of System.out by a logger.(“›J$728c0e11-6b73-4002-9ce2-9146058d049b
+f	java:S106/"+Replace this use of System.out by a logger.(ØÁá¿J$b0b2ba4f-eca6-485c-b94f-b5f7917470bd

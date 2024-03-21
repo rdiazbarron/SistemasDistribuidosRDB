@@ -1,8 +1,9 @@
 package org.example.EjerciciosEnClases;
 
 import java.io.*;
-import java.net.Socket;
-import java.util.Scanner;
+import java.net.*;
+import java.util.Arrays;
+import java.util.List;
 
 public class ManejadorJugadorP3 implements Runnable {
     final DataInputStream dis;
@@ -15,48 +16,38 @@ public class ManejadorJugadorP3 implements Runnable {
         this.dos = dos;
     }
 
-    @Override
     public void run() {
         try {
-            while (true) {
+            // Enviar preguntas y esperar respuestas
+            for (Pregunta pregunta : preguntas) {
+                dos.writeUTF(pregunta.getPregunta());
                 String respuesta = dis.readUTF();
-                procesarRespuesta(respuesta, this);
+                if (respuesta.equalsIgnoreCase(pregunta.getRespuesta())) {
+                    int puntos = ServerMultihiloP3.puntuaciones.getOrDefault(this, 0) + 1;
+                    ServerMultihiloP3.puntuaciones.put(this, puntos);
+                    dos.writeUTF("Correcto! Tu puntuación es: " + puntos);
+                } else {
+                    dos.writeUTF("Incorrecto. La respuesta correcta es: " + pregunta.getRespuesta());
+                }
             }
+            dos.writeUTF("Fin del juego. Tu puntuación final es: " + ServerMultihiloP3.puntuaciones.get(this));
         } catch (IOException e) {
             e.printStackTrace();
         } finally {
             try {
-                this.dis.close();
-                this.dos.close();
-                this.s.close();
+                dis.close();
+                dos.close();
+                s.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
     }
-    private void procesarRespuesta(String respuesta, ManejadorJugadorP3 jugador) throws IOException {
-        if (respuesta.equalsIgnoreCase(ServerMultihiloP3.preguntas.get(ServerMultihiloP3.indicePreguntaActual).getRespuesta())) {
-            ServerMultihiloP3.puntuaciones.merge(jugador, 1, Integer::sum);
-            jugador.dos.writeUTF("Correcto! Tu puntuación es: " + ServerMultihiloP3.puntuaciones.get(jugador));
-        } else {
-            jugador.dos.writeUTF("Incorrecto. La respuesta correcta era: " + ServerMultihiloP3.preguntas.get(ServerMultihiloP3.indicePreguntaActual).getRespuesta());
-        }
-        ServerMultihiloP3.indicePreguntaActual++;
-        // Verificar fin del juego
-        if (ServerMultihiloP3.indicePreguntaActual >= ServerMultihiloP3.preguntas.size()) {
-            jugador.dos.writeUTF("Fin del juego.");
-            // Enviar puntuaciones finales a todos
-            enviarPuntuacionesFinales();
-        }
-    }
 
-    private static void enviarPuntuacionesFinales() throws IOException {
-        for (ManejadorJugadorP3 jugador : ServerMultihiloP3.clientesConectados) {
-            jugador.dos.writeUTF("Puntuaciones finales: " + ServerMultihiloP3.puntuaciones.entrySet());
-        }
-    }
-
-    public void enviarPregunta(String pregunta) throws IOException {
-        dos.writeUTF(pregunta);
-    }
+    private static final List<Pregunta> preguntas = Arrays.asList(
+            new Pregunta("¿Cuál es la capital de Francia?", "París"),
+            new Pregunta("¿En qué año llegó el hombre a la Luna?", "1969"),
+            new Pregunta("¿Cuál es la capital de Perú?", "Lima"),
+            new Pregunta("¿Cuál es la capital de Argentina?", "Buenos Aires")
+    );
 }

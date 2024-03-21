@@ -24,9 +24,7 @@ class Biblioteca {
     }
 
     public List<Libro> buscarLibrosPorAutor(String nombreAutor) {
-        return libros.values().stream()
-                .filter(libro -> libro.getAutor().getNombre().equals(nombreAutor))
-                .collect(Collectors.toList());
+        return libros.values().stream().filter(libro -> libro.getAutor().getNombre().equals(nombreAutor)).collect(Collectors.toList());
     }
 
     public boolean prestarLibro(String titulo, String nombreUsuario) {

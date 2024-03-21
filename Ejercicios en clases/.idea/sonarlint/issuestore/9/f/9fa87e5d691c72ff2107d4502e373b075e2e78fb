@@ -1,0 +1,15 @@
+
+›
+java:S1104"SMake empresa a static final constant or non-public and provide accessors if needed.(íËÒÍıÿÿÿÿ8áö±Œæ1J$b245f2f5-5e7c-4f4a-8e82-d36f23f03c56
+˜
+java:S1104"UMake idfactura a static final constant or non-public and provide accessors if needed.(Ôìï¯8áö±Œæ1J$f8e351be-b23b-427a-a12a-d889ccf71a92
+—
+java:S1104	"OMake mes a static final constant or non-public and provide accessors if needed.(çĞíËûÿÿÿÿ8áö±Œæ1J$a03ab425-a5af-4fca-9110-5c1febe2bc0b
+“
+java:S1104
+"PMake anio a static final constant or non-public and provide accessors if needed.(—íşã8âö±Œæ1J$266fc80f-3da2-493d-92bf-7d2fd5b62af3
+™
+java:S1104"QMake monto a static final constant or non-public and provide accessors if needed.(¢¨Óøÿÿÿÿ8âö±Œæ1J$7a5aa559-889f-49c0-aeaf-2aadedd5f0d8
+•
+java:S1104"RMake estado a static final constant or non-public and provide accessors if needed.(¨‹¨¥8”¯á‘æ1J$ff50aa75-58e4-4122-a47f-1fb4c9cb74a8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÒÌÏÿÿÿÿÿ8ãö±Œæ1J$d32b7123-3c47-4c35-a661-86cec56aede5

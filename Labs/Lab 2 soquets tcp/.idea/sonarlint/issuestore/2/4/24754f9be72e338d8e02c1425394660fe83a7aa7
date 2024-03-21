@@ -1,13 +1,13 @@
 
 p
-java:S1604"(Make this anonymous inner class a lambda(üþƒòùÿÿÿÿ8¶¸…ƒã1J$9adf32bd-26bd-430a-8c0c-6872a6b4d0ac
+java:S1604"(Make this anonymous inner class a lambda(üþƒòùÿÿÿÿ8‘°¦öã1J$aab7707d-7273-4c58-9331-f0cec22ca4b4
 k
-java:S1604%"(Make this anonymous inner class a lambda(™ß•ä8¶¸…ƒã1J$dba467b8-0974-424e-bea4-5c6b10103a45
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—J$a0513cc4-324d-4038-9ecd-f40fc415714a
+java:S1604%"(Make this anonymous inner class a lambda(™ß•ä8’°¦öã1J$b06c91a2-4c0d-40cb-bc0c-2623a6a49f79
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8“°¦öã1J$a50bfe24-f48c-457a-b951-b4a782d6651e
 Œ
-java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ8Á¸…ƒã1J$8b4e549e-0c88-4482-b47e-167ca583f7cf
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ8¦°¦öã1J$e0e4e22a-88f3-4363-8a41-f839f5a8f0a7
 j
-java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Á¸…ƒã1J$cdfed34f-7861-459a-b55a-42dd67fa8526
-r	java:S106"+Replace this use of System.out by a logger.(žÞÿÏùÿÿÿÿ8È¸…ƒã1J$8351d42f-83cd-4e14-af42-ebfa95a927cc
-r	java:S106-"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ8Ê¸…ƒã1J$03c174e4-dde8-4bbe-bd46-f92a707c5035
-l	java:S106/"+Replace this use of System.out by a logger.(°ïü_8Ê¸…ƒã1J$a842d654-7063-4496-ba76-29e1d81e8554
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8§°¦öã1J$d8e733be-35a6-410c-9a7c-a05aa2c24cbd
+r	java:S106"+Replace this use of System.out by a logger.(žÞÿÏùÿÿÿÿ8±°¦öã1J$5cccbd52-e072-4eb1-9e1f-97f48749f121
+r	java:S106-"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ8³°¦öã1J$d8d024a8-cebc-4f87-a34c-a52448f5578c
+l	java:S106/"+Replace this use of System.out by a logger.(°ïü_8´°¦öã1J$fc9a06b9-31bc-4719-ba48-b0d837746a63

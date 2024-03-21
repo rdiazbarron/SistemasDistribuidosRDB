@@ -1,14 +1,0 @@
-
- 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8Ê‘øƒã1J$3abb1fcb-afab-4b03-95a6-be16fa2107e3
-}
-java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ê‘øƒã1J$6aab9a1a-33b3-46ca-9b20-544ff59b3cbe
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8Ë‘øƒã1J$12b94f5c-526f-4ac3-97db-2574c01e1cfc
-Œ
-java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ8Ô‘øƒã1J$27a8b22d-0de9-4f00-b8f4-9ec8fdcd034e
-m	java:S106"+Replace this use of System.out by a logger.(æÆƒÁ8Ú‘øƒã1J$1346110e-7c95-49ea-a35e-0292100793b2
-m	java:S106"+Replace this use of System.out by a logger.(•¢¾ÿ8Ú‘øƒã1J$567ceed2-cd24-4f20-827a-6ecdac741d8e
-r	java:S106"+Replace this use of System.out by a logger.(÷µçÈúÿÿÿÿ8Û‘øƒã1J$e6d3a383-b2a1-43e0-b6d9-7c0dd0bff366
-r	java:S106"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ8Û‘øƒã1J$968dad16-3a42-42b1-b0be-f9846bd7e06e
-l	java:S106"+Replace this use of System.out by a logger.(°ïü_8Û‘øƒã1J$13867180-279b-48a6-a321-3c9d379fd8c3
-r	java:S106#"+Replace this use of System.out by a logger.(µç†¡øÿÿÿÿ8ìÎøƒã1J$b0195487-658d-4795-b7b4-95ca44645cf6
-p	java:S108,")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ8Ü‘øƒã1J$256c15fe-376b-40d8-b708-122295265176

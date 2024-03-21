@@ -1,0 +1,22 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï±ê8²°«£å1J$09658ea9-213b-474c-babe-628f31365320
+r	java:S106"+Replace this use of System.out by a logger.(’Œ¨Ûûÿÿÿÿ8¾°«£å1J$12dc802e-e95a-4e89-ab68-d6843bc1702c
+r	java:S106"+Replace this use of System.out by a logger.(ÇçñÖúÿÿÿÿ8¾°«£å1J$1efdbd7b-a44d-4f47-b053-f1dc6b1438c1
+r	java:S106"+Replace this use of System.out by a logger.(¼âˆĞÿÿÿÿÿ8¾°«£å1J$841e0759-18fb-42ed-ad5e-2e85ac639715
+l	java:S106"+Replace this use of System.out by a logger.(æÈ®8Š†±£å1J$0ac0a502-4197-49f4-9bdf-55db0aaff744
+r	java:S106)"+Replace this use of System.out by a logger.(˜œÏ°ıÿÿÿÿ8Š†±£å1J$13750d3d-e7a2-48a0-ab96-4bb5328e7fc8
+R
+java:S18547"5Remove this useless assignment to local variable "a".(‚ğ¹÷8œÚÄ£å1
+r	java:S1060"+Replace this use of System.out by a logger.(§€Ó×øÿÿÿÿ8›ó¸£å1J$37f48df5-5bdd-4ab5-893b-a98d26272669
+r	java:S1062"+Replace this use of System.out by a logger.(ÿå¸øÿÿÿÿ8œó¸£å1J$61476e79-8a7f-41ca-a4ed-237321535fd5
+m	java:S1064"+Replace this use of System.out by a logger.(“ì€ø8œó¸£å1J$2ab3c111-d650-4f89-91f6-f667a2f28525
+C
+java:S14817"&Remove this unused "a" local variable.(‚ğ¹÷8ŸÚÄ£å1
+’
+java:S1854>"JRemove this useless assignment to local variable "listaRecuperadaAlumnos".(¤‰¤¢ıÿÿÿÿ8‰†±£å1J$c2eb5de5-e1db-403b-8bce-5b4616a0414e
+r	java:S106?"+Replace this use of System.out by a logger.(˜‘¡Óøÿÿÿÿ8Ÿó¸£å1J$84d9bf73-f4b0-4055-80b3-21a2d03761d0
+m	java:S106B"+Replace this use of System.out by a logger.(áÂª8Ÿó¸£å1J$c52241c3-4d8a-49c7-8795-87f74201d79c
+x
+java:S1128"0Remove this unused import 'RMIFirst.IFactorial'.(âòêúÿÿÿÿ8 ó¸£å1J$93e5c9af-48dc-4ec6-9d93-c5de2cca2cd7
+‰
+java:S1128"ARemove this unused import 'java.awt.desktop.SystemEventListener'.(’ò°´üÿÿÿÿ8 ó¸£å1J$fca731f9-561f-46b7-a51e-7201a4fa81ce

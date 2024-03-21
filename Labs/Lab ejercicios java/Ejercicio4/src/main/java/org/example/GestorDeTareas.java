@@ -8,6 +8,7 @@ public class GestorDeTareas {
 
 
     public GestorDeTareas() {
+
         this.tareas = new ArrayList<>();
     }
 

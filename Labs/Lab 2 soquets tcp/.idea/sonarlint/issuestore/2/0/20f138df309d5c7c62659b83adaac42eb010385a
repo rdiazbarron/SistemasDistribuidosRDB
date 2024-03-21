@@ -1,0 +1,37 @@
+
+¡
+java:S1104	"^Make clientesConectados a static final constant or non-public and provide accessors if needed.(ûÓªİ8‡Ö¨ìã1J$f90ff79d-22e5-4d41-a4e3-5a710ee419eb
+ 
+java:S1104
+"XMake puntuaciones a static final constant or non-public and provide accessors if needed.(íÏÍ“úÿÿÿÿ8‡Ö¨ìã1J$bcaa9cd0-a4b7-4972-9e9b-c67661a1e86e
+¡
+java:S1104"YMake nuevaPregunta a static final constant or non-public and provide accessors if needed.(Ùª»øøÿÿÿÿ8‡Ö¨ìã1J$eb12596d-c0c9-4bd2-9a91-ff69e8c1f2ff
+£
+java:S1104"`Make indicePreguntaActual a static final constant or non-public and provide accessors if needed.(ÇÔğ8‡Ö¨ìã1J$68e53e31-77e5-489b-b61a-12dfedb84d40
+˜
+java:S1104"UMake preguntas a static final constant or non-public and provide accessors if needed.(Í€àÁ8‡Ö¨ìã1J$67cad147-492c-415a-a218-2c5d3ac5b067
+{
+java:S1444	"8Make this "public static clientesConectados" field final(ûÓªİ8‡Ö¨ìã1J$45b15fb4-1c28-45b8-8031-60d1aa4875c9
+z
+java:S1444
+"2Make this "public static puntuaciones" field final(íÏÍ“úÿÿÿÿ8‡Ö¨ìã1J$7ff9a532-9b3c-4431-a882-72364d276a1c
+{
+java:S1444"3Make this "public static nuevaPregunta" field final(Ùª»øøÿÿÿÿ8‡Ö¨ìã1J$6513ddc0-f536-41ef-b8dc-a6c2804c17d6
+}
+java:S1444":Make this "public static indicePreguntaActual" field final(ÇÔğ8‡Ö¨ìã1J$b3725278-cbcb-42f5-b0c1-f54fedb643d5
+r
+java:S1444"/Make this "public static preguntas" field final(Í€àÁ8‡Ö¨ìã1J$f9b312a1-63c8-42a8-9e56-57ef015150a0
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‰„—8ˆÖ¨ìã1J$c1a37710-04a3-4854-84f1-e9147eb9dc5c
+’
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ƒŞ¸Éşÿÿÿÿ8Ö¨ìã1J$f9606a15-5131-4c7b-a540-d4de4c08c4db
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ö¨ìã1J$bfb190bf-520d-47ba-b841-eb79ef7af307
+`
+java:S2386	"Make this member "protected".(ûÓªİ8Ö¨ìã1J$5472beba-0bde-4ca4-bcb2-cb1b89fb093b
+e
+java:S2386
+"Make this member "protected".(íÏÍ“úÿÿÿÿ8Ö¨ìã1J$ac6bdbd6-63ec-498f-8dad-6f94b9e6a841
+`
+java:S2386"Make this member "protected".(Í€àÁ8‘Ö¨ìã1J$9e1c2067-b79a-4f0e-b35b-b06811da9fce
+r	java:S106"+Replace this use of System.out by a logger.(Ôå¤Ôøÿÿÿÿ8šÖ¨ìã1J$7bc4c2a4-8c01-4bee-9d0c-768b32c321c9
+r	java:S106!"+Replace this use of System.out by a logger.(ÆäÕûıÿÿÿÿ8œÖ¨ìã1J$ec980f86-cc9a-4579-ab7b-9a68e4c019dc

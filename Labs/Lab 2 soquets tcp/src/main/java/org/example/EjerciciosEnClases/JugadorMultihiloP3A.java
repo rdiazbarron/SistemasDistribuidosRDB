@@ -5,60 +5,27 @@ import java.net.*;
 import java.util.Scanner;
 
 public class JugadorMultihiloP3A {
-    public static void main(String[] args) throws IOException {
-        try {
-            Scanner sc = new Scanner(System.in);
-            InetAddress ip = InetAddress.getByName("localhost");
+    public static void main(String[] args) {
+        try (Socket socket = new Socket("localhost", 5056);
+             DataInputStream dis = new DataInputStream(socket.getInputStream());
+             DataOutputStream dos = new DataOutputStream(socket.getOutputStream());
+             Scanner scanner = new Scanner(System.in)) {
 
-            // Establecer la conexión con el puerto del servidor 5056
-            Socket s = new Socket(ip, 5056);
-
-            // Obtener flujos de entrada y salida
-            DataInputStream dis = new DataInputStream(s.getInputStream());
-            DataOutputStream dos = new DataOutputStream(s.getOutputStream());
-
-            // Hilo para leer mensajes del servidor (preguntas y actualizaciones del marcador)
-            Thread leerMensaje = new Thread(() -> {
-                while (true) {
-                    try {
-                        String msg = dis.readUTF();
-                        System.out.println(msg);
-                        if (msg.equalsIgnoreCase("fin del juego")) {
-                            System.out.println("El juego ha terminado. Cerrando conexión.");
-                            dis.close();
-                            dos.close();
-                            s.close();
-                            System.exit(0);
-                        }
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                        break;
-                    }
-                }
-            });
-
-            // Iniciar el hilo de lectura
-            leerMensaje.start();
-
-            // Loop principal para enviar respuestas
+            String delServer;
             while (true) {
-                System.out.println("Tu respuesta (escribe 'salir' para terminar): ");
-                String respuesta = sc.nextLine();
-                dos.writeUTF(respuesta);
-
-                if (respuesta.equalsIgnoreCase("salir")) {
-                    System.out.println("Cerrando esta conexión: " + s);
-                    s.close();
-                    System.out.println("Conexión cerrada");
-                    break;
+                delServer = dis.readUTF();
+                // Verificar si el mensaje del servidor indica el fin del juego
+                if (delServer.startsWith("Fin del juego")) {
+                    System.out.println(delServer); // Muestra el mensaje de fin de juego y puntuación
+                    break; // Salir del bucle cuando el juego termina
+                } else {
+                    System.out.println(delServer); // Muestra la pregunta o el resultado de la respuesta anterior
+                    System.out.print("Tu respuesta: ");
+                    String respuesta = scanner.nextLine();
+                    dos.writeUTF(respuesta); // Envía la respuesta al servidor
                 }
             }
-
-            // Cerrando recursos
-            sc.close();
-            dis.close();
-            dos.close();
-        } catch (Exception e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

@@ -40,7 +40,7 @@ public class ClienteMultihiloP1B {
                     while (true) {
                         String mensaje = sc.nextLine();
                         try {
-                            dos.writeUTF(mensaje);
+                            dos.writeUTF(s.getLocalAddress()+" "+mensaje);
                             if(mensaje.equals("salir")){
                                 System.out.println("Cerrando esta conexión : " + s);
                                 s.close();

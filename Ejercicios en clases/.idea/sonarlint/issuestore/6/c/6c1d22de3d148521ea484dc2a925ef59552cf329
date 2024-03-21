@@ -1,0 +1,8 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "Cotes" 5 times.(áÜøÿÿÿÿ8µ–µÍå1J$3a2af053-74fe-4cec-bcc1-516d00356492
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùØÂœ8¢ŒÁÍå1J$d843c55d-9f14-49da-8ebd-5c396b247267
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ²Ç¿ıÿÿÿÿ8·–µÍå1J$e75a011c-8b5d-4950-a171-e06ca802b164
+n
+java:S2160
+"+Override the "equals" method in this class.(¸ÌÔÆ8À–µÍå1J$d0cdc062-ffa1-4349-aeb0-b2642d14d6ff

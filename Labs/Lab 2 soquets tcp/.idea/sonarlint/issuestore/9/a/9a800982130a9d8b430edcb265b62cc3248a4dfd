@@ -1,0 +1,17 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡âÓÌ8’±òóã1J$2c10a401-851c-4a41-8ed5-cae9b7880d44
+©
+java:S1319"fThe type of "tareas" should be an interface such as "List" rather than the implementation "ArrayList".(‡âÓÌ8“±òóã1J$ec41543a-c803-4749-8e7b-5d4a51d40f61
+•
+java:S1104"RMake tareas a static final constant or non-public and provide accessors if needed.(‡âÓÌ8”±òóã1J$d6dfd84d-d1e5-45f4-b308-1d28fcf47c1a
+o
+java:S1444",Make this "public static tareas" field final(‡âÓÌ8”±òóã1J$6b3dca41-deea-4edd-9d8e-64074930ac1e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯‡½8•±òóã1J$1c29be2b-5986-49de-aa9d-a51dcf4beca1
+`
+java:S2386"Make this member "protected".(‡âÓÌ8ã±òóã1J$7e93e796-f4aa-45af-8ac1-8052741fcf51
+r	java:S1066"+Replace this use of System.out by a logger.(„Ë¿‘şÿÿÿÿ8è±òóã1J$dbd820f2-5f40-4649-9c78-2417c6d7d6d5
+‹
+java:S21757"HA "ArrayList<ManejadorClienteP1>" cannot contain a "ManejadorClienteP2".(üÖ¢Ë8è±òóã1J$c8dcc518-e909-4ab6-babf-4d8b26e833b5
+’
+java:S1128"ORemove this unused import 'org.example.EjerciciosEnClases.ServerMultihiloP3V2'.(Ïú­Š8¼ıóóã1J$7f48d534-e4ab-4ec9-a438-2ecd404ae467

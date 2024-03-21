@@ -1,0 +1,8 @@
+
+“
+java:S1104"RMake nombre a static final constant or non-public and provide accessors if needed.(¯‰–‚úÿÿÿÿJ$66e0100c-39c0-4dec-bbe2-259636260469
+
+java:S1104"SMake carrera a static final constant or non-public and provide accessors if needed.(®Û•ŞJ$cdd47abd-4fc0-4354-bc8a-f21853e868fd
+
+java:S1104"RMake carnet a static final constant or non-public and provide accessors if needed.(ÉÆİïJ$3777d60d-496f-4da0-95dc-64abe7d35b3f
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½×ïëJ$6f01dda6-759e-41c5-96f2-95a06586a157
