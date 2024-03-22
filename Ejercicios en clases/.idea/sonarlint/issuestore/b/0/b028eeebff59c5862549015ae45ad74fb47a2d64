@@ -2,3 +2,5 @@
 ¬
 java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(»ÜàåJ$ff3efe03-f388-403c-85c4-a9856ca11179
 •	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½×ïëJ$5f6393ac-05dc-4c4f-9474-4aba898eaf4f
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(è¯Ê©ùÿÿÿÿ8£ˆ˜—æ1

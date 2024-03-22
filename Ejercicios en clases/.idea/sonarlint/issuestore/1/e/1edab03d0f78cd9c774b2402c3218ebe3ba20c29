@@ -1,0 +1,5 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–á†²úÿÿÿÿ8ˆ¤¯—æ1
+
+java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(˜µúñ8ù‡Ëœæ1
+]	java:S125"<This block of commented-out lines of code should be removed.(èÎãÀşÿÿÿÿ8¤¯—æ1

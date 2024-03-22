@@ -1,0 +1,12 @@
+
+ 	java:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Æµüæ1J$f1dade6b-b9c6-4dc6-9ddc-e88a8f5a42e9
+d
+java:S1643@"Use a StringBuilder instead.(­³á†ûÿÿÿÿ8èàûæ1J$8f0b5b65-c358-4875-ac1c-2ee3707dfd35
+_
+java:S1643R"Use a StringBuilder instead.(¬´ıÅ8èàûæ1J$ed58c52b-d2f4-4caa-8e27-730af997524a
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùş»Ó8éàûæ1J$98b3a629-a32b-4455-8c0f-8093a0defaab
+’
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8Íˆıæ1J$be7a0787-3f1f-433e-9473-a34074540298
+m	java:S106"+Replace this use of System.out by a logger.(‘ƒ®8öàûæ1J$60b988ca-07d3-45c8-a120-0edfeee004c6
+m	java:S106 "+Replace this use of System.out by a logger.(ê®í8÷àûæ1J$d975e99f-53f7-4d9d-b9c4-94117599ae17
+r	java:S1066"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8ùàûæ1J$b7b38674-06be-451b-b1f7-309e1847613b

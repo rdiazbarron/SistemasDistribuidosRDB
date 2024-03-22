@@ -61,3 +61,17 @@ z
 Jsrc/main/java/org/example/EjerciciosEnClases/UDPNumeroPrimo/ClientUDP.java,e\d\ed23450bf087c45de903be0bd7a49c7374fb2bf7
 z
 Jsrc/main/java/org/example/EjerciciosEnClases/UDPNumeroPrimo/ServerUDP.java,7\6\7626607b4b87142982be37823c3c68ac2dca9feb
+x
+Hsrc/main/java/org/example/EjerciciosEnClases/RMIOperaciones/Cliente.java,c\8\c8125a9a0591b3e9bb195458bb2ed66e9dc48104
+y
+Isrc/main/java/org/example/EjerciciosEnClases/RMIOperaciones/Servidor.java,1\e\1edab03d0f78cd9c774b2402c3218ebe3ba20c29
+}
+Msrc/main/java/org/example/EjerciciosEnClases/RMIOperaciones/IOperaciones.java,9\3\93cd34b5999348d14882223fc1d3119bc0fd2107
+|
+Lsrc/main/java/org/example/EjerciciosEnClases/RMIOperaciones/Operaciones.java,2\2\228446916d77379929427d3d2b25a7f0b164a0a2
+w
+Gsrc/main/java/org/example/EjerciciosEnClases/Multihilos/ServerSUMA.java,4\7\472c44653dcf1cf1739447ec3bb921751ff9beae
+}
+Msrc/main/java/org/example/EjerciciosEnClases/TCPAhorcado/ClienteAhorcado.java,0\7\07f1235bc3f062faaa19c04dbcbae271ae4ae3be
+|
+Lsrc/main/java/org/example/EjerciciosEnClases/TCPAhorcado/ServerAhorcado.java,9\2\92f7e2a388074b2b6d09be3e0cb767b38c07dc3a
