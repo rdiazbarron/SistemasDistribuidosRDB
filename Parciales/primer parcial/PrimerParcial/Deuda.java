@@ -1,4 +1,4 @@
-package org.example.EjerciciosEnClases.RMIOficial;
+package org.example.EjerciciosEnClases.PrimerParcial;
 
 import java.io.Serializable;
 

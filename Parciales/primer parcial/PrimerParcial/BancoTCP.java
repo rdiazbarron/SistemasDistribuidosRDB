@@ -1,4 +1,4 @@
-package org.example.EjerciciosEnClases.RMIOficial;
+package org.example.EjerciciosEnClases.PrimerParcial;
 
 import org.example.EjerciciosEnClases.RMIEjer1parcial.IAsfi;
 

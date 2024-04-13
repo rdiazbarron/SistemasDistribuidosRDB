@@ -1,4 +1,4 @@
-package org.example.EjerciciosEnClases.RMIOficial;
+package org.example.EjerciciosEnClases.PrimerParcial;
 
 import java.net.MalformedURLException;
 import java.rmi.NotBoundException;
