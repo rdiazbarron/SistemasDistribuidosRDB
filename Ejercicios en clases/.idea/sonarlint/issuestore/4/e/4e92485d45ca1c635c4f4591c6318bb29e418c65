@@ -1,9 +1,9 @@
 
 ¡
-java:S1104	"^Make facturasPorCliente a static final constant or non-public and provide accessors if needed.(æ‰û8Ğ³ï•æ1J$ada0cee4-2f2a-4a5f-82ff-61bf72139d6a
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÒÌÏÿÿÿÿÿ8Ò³ï•æ1J$6e497ee4-46d4-4a82-af40-ef694d7a2f12
+java:S1104	"^Make facturasPorCliente a static final constant or non-public and provide accessors if needed.(æ‰û8Ğ³ï•æ1J$6173d7b4-0a6d-46fd-9340-3f01a247f64c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ÒÌÏÿÿÿÿÿ8Ò³ï•æ1J$49e6f432-db9c-48f3-9a1d-52997ffad7a4
 n
-java:S2160"+Override the "equals" method in this class.(İôùë8Ş³ï•æ1J$62c57af8-9cb3-4801-bb00-28e6602ba894
+java:S2160"+Override the "equals" method in this class.(İôùë8Ş³ï•æ1J$4dac4138-ad24-4a70-a016-6037ff4dc84b
 r
-java:S1948	"/Make "facturasPorCliente" private or transient.(æ‰û8à³ï•æ1J$1edd438f-d749-488c-86df-a814c12954d5
-}	java:S1257"<This block of commented-out lines of code should be removed.(ş£±M8Û…İ–æ1J$254fad9c-8dc8-412a-b19b-f55502914d76
+java:S1948	"/Make "facturasPorCliente" private or transient.(æ‰û8à³ï•æ1J$f6329fad-e5d7-4265-a76b-e056dc04e940
+}	java:S1259"<This block of commented-out lines of code should be removed.(ş£±M8Û…İ–æ1J$22010d1a-2446-42cf-ae41-6a1a888f3f48

@@ -1,0 +1,38 @@
+
+	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ÌÜïì1J$be72ae2a-5019-49df-8e68-d50611282eef
+	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ÌÜïì1J$ffcfacb1-80b4-4281-a215-4a1790dfacb6
+	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8†ÌÜïì1J$11d18b15-ecba-42d5-ab18-84d8455fbb8f
+¡
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÉ­”ıÿÿÿÿ8‡ÌÜïì1J$dec10223-3e2e-4ebe-b469-b977eca30e79
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆ·¡ûÿÿÿÿ8ˆÌÜïì1J$401f75d8-a66f-43eb-8803-e6cc0085a193
+i
+java:S2095U"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8‡Ê¢ğì1
+i
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Âıû¨8‡Ê¢ğì1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ˆÊ¢ğì1
+º
+java:S1130"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(§ÜËû8Øˆêïì1J$46a8e169-afcd-4212-a2b1-e348981fc58d
+¶
+java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(§ÜËû8Øˆêïì1J$75bcbf7f-6a68-4f40-ab02-59756aa665ea
+´
+java:S1130"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(§ÜËû8Øˆêïì1J$6fcee88b-2433-4f35-8194-22e2622b8216
+~	java:S125"<This block of commented-out lines of code should be removed.(²Ìú8‹êïì1J$e980ec52-b77a-4232-807e-7282014af86d
+m
+java:S1197"*Move the array designators [] to the type.(§ÜËû8ÌÜïì1J$118c3450-be80-48eb-8ce9-e9054a211e3f
+m	java:S1066"+Replace this use of System.out by a logger.(Ãî±ã8•ÌÜïì1J$0920069e-12e7-4870-a7e8-53ebeb1d8482
+m	java:S1068"+Replace this use of System.out by a logger.(Ëú³©8•ÌÜïì1J$b45a5e36-9b3a-4c52-8550-4d97675162c6
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(Ë€µüÿÿÿÿ8–ÌÜïì1J$e3182b61-82bc-43d2-9c10-ac307a25bcd9
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(ãöÍšıÿÿÿÿ8–ÌÜïì1J$a3da4597-68e6-4371-bd74-6c4b285ad9b7
+~
+java:S1854K"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8—ÌÜïì1J$379cffb7-0346-4e5d-8716-c8ead3b1cbdd
+o
+java:S1481K"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8˜ÌÜïì1J$6fb318c8-804b-42a0-b7dc-28ae6ed82a22
+ˆ
+java:S2147t"ECombine this catch with the one at line 114, which has the same body.(´ú§â8™ÌÜïì1J$af5fb194-1012-41e3-b9b0-5e5498a4581e
+ˆ
+java:S2147v"ECombine this catch with the one at line 116, which has the same body.(ï­£Ä8™ÌÜïì1J$81df3667-a2ec-4133-9b15-83ad85afeb0b
+~	java:S125P"<This block of commented-out lines of code should be removed.(¼ñ‡Ì8™ÌÜïì1J$59956afe-9d09-40d8-b2b4-562cd39181a0
+ƒ	java:S125p"<This block of commented-out lines of code should be removed.(«ıÄãüÿÿÿÿ8›ÌÜïì1J$6cf11ca3-aa6b-440d-8d72-bd4cb60fcaa7
+I
+java:S1128",Remove this unused import 'java.rmi.Naming'.(Ü›¾¬8›Ê¢ğì1

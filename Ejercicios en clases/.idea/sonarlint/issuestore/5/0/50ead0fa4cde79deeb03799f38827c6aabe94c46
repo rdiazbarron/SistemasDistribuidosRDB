@@ -1,0 +1,27 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ֻת—8פקבתל1J$c899cff4-51bc-4c9c-bad4-2cbd7dbd9c20
+‡
+java:S2095A"DUse try-with-resources or close this "Socket" in a "finally" clause.(עֳּח8רקבתל1J$b7f0f7b2-f1ff-415e-9026-1ce14a834b93
+÷
+java:S1130"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(ß¼״»8‏קבתל1J$f25ff470-9df6-4688-8127-dc8af3e3b437
+¶
+java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(ß¼״»8‏קבתל1J$711c5716-e24c-462d-b88d-40cf1f9633a3
+´
+java:S1130"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(ß¼״»8‏קבתל1J$64785c54-755c-4067-92a1-df183974cc85
+l	java:S106"+Replace this use of System.out by a logger.(ֱ¬†l8ÿקבתל1J$bf3d4f03-26c0-444b-9ce2-7dba2a6db550
+r	java:S106"+Replace this use of System.out by a logger.(ע‹ֹûÿÿÿÿ8ÿקבתל1J$95eb4033-b4dc-4db5-9a97-dfb916ecef82
+r	java:S106"+Replace this use of System.out by a logger.(׀ֱûױתÿÿÿÿ8ÿקבתל1J$bffc07c8-1e00-471b-916e-6c25ec9f3d6e
+m	java:S106!"+Replace this use of System.out by a logger.(ױמ₪ם8ÿקבתל1J$5de3fd77-e366-4732-b2b1-b8c73d3619d4
+r	java:S106("+Replace this use of System.out by a logger.(‘ÞÜײרÿÿÿÿ8€רבתל1J$ced1a4aa-97d5-4603-a49c-6e42c10758bd
+r	java:S106*"+Replace this use of System.out by a logger.(‹ֽהחüÿÿÿÿ8€רבתל1J$71aaae9b-a81e-4be4-a689-2da77e506690
+m	java:S106,"+Replace this use of System.out by a logger.(’ֵÚר8€רבתל1J$51b35ebd-9cba-4285-8f4d-bff4365904c5
+m	java:S106."+Replace this use of System.out by a logger.(ÿה‰ִ8‚רבתל1J$ce51dc7f-b111-4658-a4ef-c964b2081c95
+m	java:S106K"+Replace this use of System.out by a logger.(ˆ÷ה8ƒרבתל1J$7ba8e864-9edb-4104-a676-ebbe5ef4815c
+~	java:S125I"<This block of commented-out lines of code should be removed.(¹»ףא8ƒרבתל1J$568e269d-d014-4b90-9718-e4651c02c880
+r	java:S106L"+Replace this use of System.out by a logger.(®‎בכûÿÿÿÿ8„רבתל1J$bf343202-57f9-4e44-9203-93a7d5adde48
+r	java:S106N"+Replace this use of System.out by a logger.(‎™ררÿÿÿÿ8ßדתל1J$1008c658-59e6-43e9-b8cd-9e139fbc89f2
+o
+java:S1128
+",Remove this unused import 'java.rmi.Naming'.(Ü›¾¬8‎התל1J$09196b05-f1ab-4796-98d8-881f71c619de
+w
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ך₪עֳשÿÿÿÿ8‎התל1J$cd13f736-e9e5-474b-8be5-0081e1585abe

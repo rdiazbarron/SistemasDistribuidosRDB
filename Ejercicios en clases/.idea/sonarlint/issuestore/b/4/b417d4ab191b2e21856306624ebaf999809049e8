@@ -1,0 +1,11 @@
+
+}
+java:S1141"5Extract this nested try block into a separate method.(¹‹¹üÿÿÿÿ8İƒÙì1J$3fa9c9a2-00ac-4a66-a188-db423628ccd9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šáÛî8à’Ùì1J$7acc818e-b9f5-4826-b873-f65f72e8d980
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8©İƒÙì1J$7ef7c959-526b-4994-aad1-bf0160065f13
+r	java:S106"+Replace this use of System.out by a logger.(úšèçÿÿÿÿÿ8®İƒÙì1J$fd93fbbf-09e3-4182-b886-4c2a702b6cac
+m	java:S106"+Replace this use of System.out by a logger.(ï8°İƒÙì1J$79ee1229-f957-4538-824c-d6dd14143c8e
+r	java:S106!"+Replace this use of System.out by a logger.(ƒ°„ğÿÿÿÿÿ8±İƒÙì1J$66fc4ebe-1c0c-4aae-a6cc-c2f6d160e801
+r	java:S106%"+Replace this use of System.out by a logger.(ã¬šöüÿÿÿÿ8±İƒÙì1J$2056537e-3a9c-42df-9372-ca2b8e6cf868
+ƒ	java:S1258"<This block of commented-out lines of code should be removed.(ºÖÁÜøÿÿÿÿ8ô’Ùì1J$153121fe-30d5-49fc-84f2-59a80cfa2b5d

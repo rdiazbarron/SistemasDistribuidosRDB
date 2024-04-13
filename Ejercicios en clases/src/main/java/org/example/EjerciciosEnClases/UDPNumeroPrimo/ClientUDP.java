@@ -11,7 +11,8 @@ public class ClientUDP {
         int puerto = 6789;
         Scanner sc=new Scanner(System.in);
         try {
-            while(true){
+            while(true)
+            {
                 System.out.print("Introduzca un valor");
                 String dato=sc.next();
                 String ip="localhost";

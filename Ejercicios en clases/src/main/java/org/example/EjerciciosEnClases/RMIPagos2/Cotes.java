@@ -7,17 +7,19 @@ import java.util.Map;
 
 public class Cotes extends UnicastRemoteObject implements IEmpresa {
     public Map<Integer,Factura[]> facturasPorCliente;
-    protected Cotes() throws RemoteException {
-        super();
-        facturasPorCliente = new HashMap<>();
 
+    protected Cotes() throws RemoteException
+    {
+        super();
+        facturasPorCliente = new HashMap<>();//necesitas inicalizar
     }
 
     @Override
-    public Factura[] calcularFacturas(int idcliente) throws RemoteException {
+    public Factura[] calcularFacturas(int idcliente) throws RemoteException
+    {
 
         if(facturasPorCliente.containsKey(idcliente)){
-            return facturasPorCliente.get(idcliente);
+            return facturasPorCliente.get(idcliente);//devuleve directamente sin crear nada
         }
         else{
 

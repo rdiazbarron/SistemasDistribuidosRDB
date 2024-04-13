@@ -1,12 +1,14 @@
 
- 	java:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8Æµüæ1J$f1dade6b-b9c6-4dc6-9ddc-e88a8f5a42e9
+ 	java:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8™®µç1J$79188125-ccbf-4a32-b913-bfa432613563
 d
-java:S1643@"Use a StringBuilder instead.(­³á†ûÿÿÿÿ8èàûæ1J$8f0b5b65-c358-4875-ac1c-2ee3707dfd35
+java:S1643F"Use a StringBuilder instead.(­³á†ûÿÿÿÿ8™®µç1J$75333501-4d12-4f8c-a3c2-d93359fc43d3
 _
-java:S1643R"Use a StringBuilder instead.(¬´ıÅ8èàûæ1J$ed58c52b-d2f4-4caa-8e27-730af997524a
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùş»Ó8éàûæ1J$98b3a629-a32b-4455-8c0f-8093a0defaab
+java:S1643W"Use a StringBuilder instead.(¬´ıÅ8™®µç1J$a4aaea8b-f2f7-4c30-b9f7-50ff6ca29d26
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùş»Ó8é”¬µç1J$3fedec4c-cbaf-40f7-8103-9d8cbdf247f9
 ’
-java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8Íˆıæ1J$be7a0787-3f1f-433e-9473-a34074540298
-m	java:S106"+Replace this use of System.out by a logger.(‘ƒ®8öàûæ1J$60b988ca-07d3-45c8-a120-0edfeee004c6
-m	java:S106 "+Replace this use of System.out by a logger.(ê®í8÷àûæ1J$d975e99f-53f7-4d9d-b9c4-94117599ae17
-r	java:S1066"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8ùàûæ1J$b7b38674-06be-451b-b1f7-309e1847613b
+java:S2095%"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ıÿÿÿÿ8²™®µç1J$8c094b32-8efc-4ac7-b73d-5947d02444d5
+f
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8»û®µç1J$d641cd73-4ef6-46cb-89ab-f10d9954427c
+m	java:S106&"+Replace this use of System.out by a logger.(‘ƒ®8½™®µç1J$30956b7b-7558-4620-8c09-b57d368a8850
+m	java:S106)"+Replace this use of System.out by a logger.(ê®í8¾™®µç1J$1af5075e-59bc-4aad-81a1-c726622175fe
+r	java:S106?"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8Å™®µç1J$2a75323d-faa5-4f82-ac92-09aacf431bd0

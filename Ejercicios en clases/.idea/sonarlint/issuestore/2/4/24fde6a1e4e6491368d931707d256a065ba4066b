@@ -1,0 +1,40 @@
+
+	java:S112i"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×ê‡ğì1J$0bd3a414-13a2-4741-8620-f32bfe3e9677
+	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×ê‡ğì1J$7522ead6-143b-45e3-92cf-46425fc9000c
+	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×ê‡ğì1J$f1583981-5dcc-4e8b-89f6-53fee712b06d
+	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8×ê‡ğì1J$e9663006-503e-44b7-ae9a-f61ce72a0936
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öÆ·¡ûÿÿÿÿ8Ùê‡ğì1J$ccaace74-f393-4802-aa49-9607a493576d
+
+java:S2095B"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8åºŠğì1J$9467e38b-dcf2-4c06-a464-02a5a384ecbb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(›Åä´ıÿÿÿÿ8ìê‡ğì1J$30230012-b08d-4430-81bb-b00e92723014
+º
+java:S1130"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(¡ òâ8ñê‡ğì1J$78e56552-cf3b-4a22-9c06-0443415c4155
+¶
+java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(¡ òâ8óê‡ğì1J$a18e044d-f863-4e20-b424-7de06b5379bf
+´
+java:S1130"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(¡ òâ8õê‡ğì1J$a048a6a3-7993-4b62-bbac-41da9c162e07
+m	java:S106"+Replace this use of System.out by a logger.(ê¶İ”8÷ê‡ğì1J$83b4f616-a602-4526-9192-7f6efa9619b6
+r	java:S106"+Replace this use of System.out by a logger.(«Ÿõòúÿÿÿÿ8ùê‡ğì1J$5035711b-6e2f-4b1a-b4f8-73c05d46b2cd
+r	java:S106 "+Replace this use of System.out by a logger.(ĞÁûÕúÿÿÿÿ8ûê‡ğì1J$9cdea589-664f-4854-a271-737ca5105277
+}	java:S125'"<This block of commented-out lines of code should be removed.(µ¥öZ8ûê‡ğì1J$d0e53bd9-e52c-4204-83d3-d80f91d6c59f
+†
+java:S18544">Remove this useless assignment to local variable "cuentasUDP".(–¥¦Öüÿÿÿÿ8üê‡ğì1J$9e39cb97-41c1-47d9-9f5e-775875e7dcbc
+w
+java:S14814"/Remove this unused "cuentasUDP" local variable.(–¥¦Öüÿÿÿÿ8ıê‡ğì1J$38f9630d-0af1-4b72-bb23-93a8292e2b5d
+ˆ
+java:S2147j"ECombine this catch with the one at line 104, which has the same body.(´ú§â8şê‡ğì1J$aa98585e-6e56-4568-baf8-eb490038ff13
+ˆ
+java:S2147l"ECombine this catch with the one at line 106, which has the same body.(ï­£Ä8şê‡ğì1J$180dc9bd-fa29-400f-8fc9-c183fa26a804
+ˆ
+java:S2147n"ECombine this catch with the one at line 108, which has the same body.(ıàÑÎ8şê‡ğì1J$7de78cd6-4d70-493e-8986-acdbdcd8ec05
+m	java:S106:"+Replace this use of System.out by a logger.(”Áçõ8şê‡ğì1J$95093756-c83d-4133-905f-a62b103955ae
+r	java:S106<"+Replace this use of System.out by a logger.(Ü¾®­ÿÿÿÿÿ8şê‡ğì1J$874a51c4-a5c1-409e-a6f2-4689c8eeb1c1
+r	java:S106>"+Replace this use of System.out by a logger.(ùÓª‹şÿÿÿÿ8şê‡ğì1J$2bbe6b91-ef0a-41c6-bfa4-aa1a8b0fc941
+r	java:S106X"+Replace this use of System.out by a logger.(‹«¢ˆüÿÿÿÿ8ë‡ğì1J$6ff4ac37-5650-4538-bc99-cd3f094272df
+m	java:S106\"+Replace this use of System.out by a logger.(™âÖ™8ë‡ğì1J$f068a224-b754-4dd7-825d-3fe35f3553e6
+r	java:S106`"+Replace this use of System.out by a logger.(ÕË·úÿÿÿÿ8şÅˆğì1J$68ff550a-99dd-4f03-bc40-b767a536ab6b
+l	java:S106a"+Replace this use of System.out by a logger.(ìó²I8şÅˆğì1J$7b27fc61-2328-4dbe-b5e4-100ae3ff1482
+l	java:S106b"+Replace this use of System.out by a logger.(±ƒİ8ÿÅˆğì1J$67e211fb-a593-4674-ac67-0d9ac4f9d635
+l	java:S106c"+Replace this use of System.out by a logger.(ã†Õ_8ÿÅˆğì1J$d5e12f0a-c36c-4dcc-9bff-8c9a053a5589
+o
+java:S1128	",Remove this unused import 'java.rmi.Naming'.(Ü›¾¬8úºŠğì1J$1c575538-8604-495f-abdf-41a98e93054b

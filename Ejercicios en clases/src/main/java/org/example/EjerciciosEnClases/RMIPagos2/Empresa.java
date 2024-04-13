@@ -11,7 +11,7 @@ public class Empresa implements Serializable {
         this.nit = nit;
     }
 
-    public String getNombre() {
+    public String getNombreEmpresa() {
         return nombre;
     }
 

@@ -1,0 +1,67 @@
+
+	java:S112y"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’ÊÊìì1J$1929c71e-0919-40a5-a511-bb7e3152b60c
+	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’ÊÊìì1J$84b44e69-ebf8-4fe4-ae85-599d0537cee4
+	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’ÊÊìì1J$cbb8c947-f8a3-4b9f-8407-23b9115943b2
+	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’ÊÊìì1J$bc7399a0-555a-4bc6-88c8-a07501ff174d
+	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’ÊÊìì1J$5f726bb8-2b34-4a5d-8e69-e44c7fa3fa57
+	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’ÊÊìì1J$0c979b0b-d55c-43e4-8f2b-a95181b06c1b
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï“Š8”ÊÊìì1J$41893607-4b46-4756-a084-5eb4acb2cd56
+œ
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëÏÜ8”ÊÊìì1J$16a146af-6f42-44ce-8728-896f72cd2401
+
+java:S1192:"JDefine a constant instead of duplicating this literal "localhost" 4 times.(òÃÌç8•ÊÊìì1J$370562aa-9db9-4107-93b4-902e637192b4
+´
+java:S1319³"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÉõÍ8 Ãøì1J$711e4128-b000-4507-9a84-3107e815c735
+©
+java:S1488+"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(ˆòÑ¯ùÿÿÿÿ8–ÊÊìì1J$208232e3-e69f-488f-a902-5f6a7e6eeed1
+¤
+java:S1488/"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(ˆ—¢÷8–ÊÊìì1J$9620df0b-36eb-4ebe-91b0-e3f6c9210145
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šáÛî8˜ÊÊìì1J$f2670635-b95b-4505-a903-7133f2b7a540
+
+java:S2095a"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8èŸıìì1J$fc59d58b-b8d8-4a0d-ae89-651c52dfb0ff
+ˆ
+java:S2095¹"DUse try-with-resources or close this "Socket" in a "finally" clause.(òÃÌç8èŸıìì1J$afc302de-3de8-4f26-b640-5ca3f7e9e624
+
+java:S2095Œ"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8èŸıìì1J$e35298c4-cfcb-496b-8470-fda5b8bcc1d1
+‡
+java:S2095:"DUse try-with-resources or close this "Socket" in a "finally" clause.(òÃÌç8êÃøì1J$43c9e3da-c791-4ae3-ae1a-0463716ce9b1
+‡
+java:S1854%"DRemove this useless assignment to local variable "cuentasGlobales2".(ëÏÜ8¢ÊÊìì1J$d29166c5-ca6a-49fa-b0cb-2b190246cfe7
+x
+java:S1481%"5Remove this unused "cuentasGlobales2" local variable.(ëÏÜ8£ÊÊìì1J$6cc63e67-4b6f-4eb6-9899-ddc824e06402
+†
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(¦“¼†şÿÿÿÿ8îŸıìì1J$7b6fa549-a604-4fe4-82a1-aa37d0059798
+
+java:S1155.">Use isEmpty() to check whether the collection is empty or not.(Ú¶­é8îŸıìì1J$a9adea39-5aa9-4468-86bc-22d245db7390
+Œ
+java:S1858E"I"result" is already a string, there's no need to call "toString()" on it.(¢â±Ù8¨ÊÊìì1J$c33d978a-2d06-4687-b1ea-2c229dca88d4
+r	java:S106O"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8©ÊÊìì1J$748c617e-5868-4bb7-9d60-11ae6fc892f9
+†
+java:S1854X">Remove this useless assignment to local variable "cuentasUDP".(–¥¦Öüÿÿÿÿ8©ÊÊìì1J$43b1f4e5-bfe2-4b11-876f-d3a02f3ac55c
+~
+java:S1854V"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8©ÊÊìì1J$95825474-2c18-4dbd-b57c-db89f44cb1e0
+o
+java:S1481V"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8«ÊÊìì1J$ca9866f1-54ba-4017-abf4-ff7e7144c1cc
+w
+java:S1481X"/Remove this unused "cuentasUDP" local variable.(–¥¦Öüÿÿÿÿ8«ÊÊìì1J$10f65789-c452-46ab-9f7f-b1b025d10d88
+ˆ
+java:S2147z"ECombine this catch with the one at line 120, which has the same body.(´ú§â8¬ÊÊìì1J$001c21bb-9cfb-4883-8fae-f38785075b8f
+ˆ
+java:S2147|"ECombine this catch with the one at line 122, which has the same body.(ï­£Ä8¬ÊÊìì1J$d422c306-29d9-4517-b051-306f7ce14abf
+~	java:S125\"<This block of commented-out lines of code should be removed.(¼ñ‡Ì8¬ÊÊìì1J$1f9dfc86-2067-446a-8d80-307e0da93d8b
+„
+java:S1126r"AReplace this if-then-else statement by a single return statement.(ªàÄ¼8¯ÊÊìì1J$102f9b26-bf99-4298-a033-8fab81c8091a
+
+java:S1854‚"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8°ÊÊìì1J$060f547f-84cc-4af6-9ff4-4a55d88844fd
+p
+java:S1481‚"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8°ÊÊìì1J$0ce0420f-155c-492a-b454-f2f091625812
+‰
+java:S2147«"ECombine this catch with the one at line 169, which has the same body.(´ú§â8°ÊÊìì1J$32c35800-aff6-47dd-bd7c-584fcac31a7b
+‰
+java:S2147­"ECombine this catch with the one at line 171, which has the same body.(ï­£Ä8±ÊÊìì1J$c8782a66-1aba-4c37-94ab-1930583636bc
+	java:S125‡"<This block of commented-out lines of code should be removed.(¼ñ‡Ì8±ÊÊìì1J$c485abbc-80ef-472a-90cc-03855e12d33f
+„	java:S125§"<This block of commented-out lines of code should be removed.(«ıÄãüÿÿÿÿ8²ÊÊìì1J$5ca8c9a8-68b5-49c6-b47e-a8a712f85755
+
+java:S1858Ä"I"result" is already a string, there's no need to call "toString()" on it.(½Ÿ—˜8‘Ãøì1J$44d22d00-404b-46cc-9230-4370c014b675
+s	java:S106Í"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8’Ãøì1J$eb70aec4-61ca-4ab2-b161-7c45f3b96d09

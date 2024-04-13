@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šáÛî8¯¦úëì1J$6f30be06-723b-45ad-b0f4-f865023967a1
+
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Âıû¨8¿¦úëì1J$c7d933cd-fe54-406e-862d-e59ac09d3dad
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¿¦úëì1J$e18f95c8-2b7a-4ef9-a096-5a327b72b10c
+r
+java:S1197
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Ä¦úëì1J$be613082-6240-43bd-b485-f7bc4ca407ea
+m	java:S106$"+Replace this use of System.out by a logger.(Ãî±ã8Ê¦úëì1J$c097d9c1-f844-4127-8e2a-e4f5a3b3056c
+m	java:S106&"+Replace this use of System.out by a logger.(Ëú³©8Ê¦úëì1J$cf6ea6e1-3dc2-49b8-884f-1c60911d0b7a

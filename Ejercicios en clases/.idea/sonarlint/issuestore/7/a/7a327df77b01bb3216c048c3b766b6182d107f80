@@ -1,0 +1,23 @@
+
+“	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­èñò8•´çéì1J$587ff62c-1651-4e22-bee5-772bd4be1407
+˜	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÉùÕÿÿÿÿÿ8–´çéì1J$147a0d70-7613-4d8f-ab4f-2273fc5acbf8
+“	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ÂÚ—8–´çéì1J$71a28d0b-2594-41b0-9aad-a5607f22bf3d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šáÛî8™´çéì1J$12e5faa8-9f2e-4f1a-a442-94c8cbfab5fc
+–
+java:S2259`"NA "NullPointerException" could be thrown; "cuentasRecibidas" is nullable here.(ÎùÓşÿÿÿÿ8Ÿ §îì1J$a25d0daa-be4b-4046-8917-4e84953f2438
+m	java:S106"+Replace this use of System.out by a logger.(ê¶İ”8Ç´çéì1J$79c75fb4-cf51-4115-a273-9db7b2668291
+r	java:S106"+Replace this use of System.out by a logger.(«Ÿõòúÿÿÿÿ8Ê´çéì1J$b1fe906c-6f56-4333-8017-2ae39e2a18b9
+r	java:S106"+Replace this use of System.out by a logger.(ĞÁûÕúÿÿÿÿ8Ê´çéì1J$b5251ee7-d662-40de-ad9f-065104aad036
+r	java:S1064"+Replace this use of System.out by a logger.(á…ƒÛøÿÿÿÿ8Ë´çéì1J$48fa37b6-b7ce-4124-b3be-4e5c3fa9ef18
+m	java:S1068"+Replace this use of System.out by a logger.(í½¿Ë8Î´çéì1J$cd766ff0-7821-42ad-8140-f48b43ca79a8
+r	java:S106;"+Replace this use of System.out by a logger.(Åöéúÿÿÿÿ8Ï´çéì1J$4309ca6c-2b29-4e4f-8a60-60cbaab88b26
+r	java:S106="+Replace this use of System.out by a logger.(åï¼»ÿÿÿÿÿ8Ğ´çéì1J$6750b763-2cb4-4b75-ac67-07328e2aeb62
+r	java:S106B"+Replace this use of System.out by a logger.(ïê§üÿÿÿÿ8×´çéì1J$0c729ca0-848a-49a4-8df4-a271bc45ddb5
+r	java:S106F"+Replace this use of System.out by a logger.(Ôí»Àúÿÿÿÿ8şœèéì1J$35efd56b-fb10-4003-9259-93c5b77a387a
+m	java:S106N"+Replace this use of System.out by a logger.(ˆÜ™ü8ò‘•êì1J$0ebbd9f9-a562-4ec2-a9f2-682377530bfa
+m	java:S106R"+Replace this use of System.out by a logger.(öŒ±Ş8õ‘•êì1J$4e5547a1-b249-4f15-acac-cf72163625ab
+r	java:S106T"+Replace this use of System.out by a logger.(¬ˆÈ´üÿÿÿÿ8Ô™¼øì1J$8099e3a5-bfed-42f1-bc62-0bfbf61fa2f5
+r	java:S106\"+Replace this use of System.out by a logger.(èıŒûÿÿÿÿ8Ô™¼øì1J$1325a286-4e72-47fe-a336-914ad7f42192
+†
+java:S1155`">Use isEmpty() to check whether the collection is empty or not.(ÎùÓşÿÿÿÿ8© §îì1J$d2687172-69eb-4332-a8e4-28dab04963bd
+r	java:S106a"+Replace this use of System.out by a logger.(‹«¢ˆüÿÿÿÿ8Ö™¼øì1J$00a59806-903d-4b7c-a5a1-9ccfc0f312c5

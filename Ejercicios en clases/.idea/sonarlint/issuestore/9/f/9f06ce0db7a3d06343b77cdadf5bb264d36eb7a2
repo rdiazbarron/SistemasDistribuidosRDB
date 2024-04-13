@@ -1,0 +1,29 @@
+
+}
+java:S1141 "5Extract this nested try block into a separate method.(¹‹¹üÿÿÿÿ8şìûì1J$3dab4f34-a160-4757-9bb1-5fc52240a094
+_
+java:S16431"Use a StringBuilder instead.(Íç•¢8Ÿşìûì1J$0287227c-b7ed-4661-bc1c-91691ddc6e2f
+_
+java:S16432"Use a StringBuilder instead.(Ïüáº8Ÿşìûì1J$c3b3e4d6-e144-4e49-8d18-06a575c8420d
+_
+java:S16433"Use a StringBuilder instead.(Ï…¿£8Ÿşìûì1J$4156123c-2d95-41ff-9f9e-063134876b5c
+_
+java:S16434"Use a StringBuilder instead.(‘Æ¡æ8Ÿşìûì1J$d43f1b73-8a37-4d8d-827a-de4d3f468bcb
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8¡şìûì1J$df3b8462-4981-4ae0-8252-d9dcbb01f879
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(îèŞ×8ÿìûì1J$7632a8c3-88b1-41eb-92ae-ea51126063ad
+r	java:S106"+Replace this use of System.out by a logger.(úšèçÿÿÿÿÿ8“ÿìûì1J$94e22439-f69e-44d9-9e98-60fa6fe2b478
+m	java:S106$"+Replace this use of System.out by a logger.(ï8”ÿìûì1J$5fd5d381-c99c-4b8d-8c74-015625be211b
+m	java:S106'"+Replace this use of System.out by a logger.(ÕáÉí8”ÿìûì1J$42713889-a973-4a13-ba14-8c47aaaceff5
+m	java:S106("+Replace this use of System.out by a logger.(õˆÅ·8”ÿìûì1J$082a4fd3-1bbe-4636-b46f-2f5d9bc9e14f
+r	java:S106*"+Replace this use of System.out by a logger.(¸Ï°üùÿÿÿÿ8•ÿìûì1J$6da47403-b86c-419b-b39c-aebdc2855371
+r	java:S106,"+Replace this use of System.out by a logger.(…§“Şÿÿÿÿÿ8•ÿìûì1J$447d25a3-3f12-4943-b656-536bfeea8fb1
+~	java:S125:"<This block of commented-out lines of code should be removed.(™Ãş›8–ÿìûì1J$cda95700-6f95-4904-8f03-83694efbc8ff
+o
+java:S1125@"'Remove the unnecessary boolean literal.(óğæ§ıÿÿÿÿ8ëëûûì1J$c5b1ffb1-f764-4f96-ba30-350b8d24bda4
+o
+java:S1125C"'Remove the unnecessary boolean literal.(×óÃ“úÿÿÿÿ8Üè‚üì1J$363f2d0c-a912-483e-9229-98386b1e41a2
+r	java:S106M"+Replace this use of System.out by a logger.(ƒ°„ğÿÿÿÿÿ8˜ÿìûì1J$c488ec91-533e-4407-8e73-f5245cd0db2d
+r	java:S106Q"+Replace this use of System.out by a logger.(ã¬šöüÿÿÿÿ8˜ÿìûì1J$a575f08a-42f0-4628-9710-8401149e3137
+”
+java:S1128"QRemove this unused import 'org.example.EjerciciosEnClases.RMIEjer1parcial.IAsfi'.(©ĞÇó8İè‚üì1J$43513512-b5dc-4634-8f9c-0d77c25446fc

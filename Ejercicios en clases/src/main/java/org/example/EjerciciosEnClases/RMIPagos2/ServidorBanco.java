@@ -7,7 +7,7 @@ import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 
-public class Servidor {
+public class ServidorBanco {
     public static void main(String[] args) throws RemoteException, AlreadyBoundException, MalformedURLException, NotBoundException {
 
         Banco banco = new Banco();
@@ -15,4 +15,5 @@ public class Servidor {
         Naming.bind("Banco", banco);
 
     }
+
 }

@@ -26,6 +26,7 @@ public class ServerUDP {
 
 
                 String cadena =new String (peticion.getData());
+
                 int valor=Integer.valueOf(cadena.trim());
                 System.out.println(" valor enviado: " +valor);
                 // Construimos el DatagramPacket para enviar la respuesta
@@ -49,6 +50,8 @@ public class ServerUDP {
         }
     }
 
+
+
     private static boolean esPrimo(int valor) {
         if(valor == 0 || valor ==1){
             return false;
@@ -58,6 +61,7 @@ public class ServerUDP {
                 return false;
             }
         }
+
         return true;
     }
 

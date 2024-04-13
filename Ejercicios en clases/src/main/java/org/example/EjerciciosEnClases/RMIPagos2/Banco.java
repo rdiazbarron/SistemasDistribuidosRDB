@@ -23,8 +23,8 @@ public class Banco extends UnicastRemoteObject implements IBanco {
     public Factura[] calcularFacturas(int idcliente) throws RemoteException, MalformedURLException, NotBoundException {
         IEmpresa cotes;
         IEmpresa cessa;
-        cotes = (IEmpresa) Naming.lookup("rmi://localhost/Cotes");
-        cessa = (IEmpresa) Naming.lookup("rmi://localhost/Cessa");
+        cotes = (IEmpresa) Naming.lookup("rmi://localhost/Cotes");//instanciando rmi
+        cessa = (IEmpresa) Naming.lookup("rmi://localhost/Cessa");//instancioando rmi
 
         Factura[] facturasCotes = cotes.calcularFacturas(idcliente);
         Factura[] facturasCessa = cessa.calcularFacturas(idcliente);
@@ -55,11 +55,11 @@ public class Banco extends UnicastRemoteObject implements IBanco {
         int countCessa = 0;
         int countCotes = 0;
         for (Factura f : facturasAPagar) {
-            if (f.getEmpresa().getNombre().equals("Cessa")) {
+            if (f.getEmpresa().getNombreEmpresa().equals("Cessa")) {
                 countCessa++;
                 System.out.println("Cantidad facturas de cessa:"+countCessa);
             }
-            if (f.getEmpresa().getNombre().equals("Cotes")) {
+            if (f.getEmpresa().getNombreEmpresa().equals("Cotes")) {
                 countCotes++;
                 System.out.println("Cantidad facturas de cessa:"+countCotes);
 
@@ -72,9 +72,9 @@ public class Banco extends UnicastRemoteObject implements IBanco {
         int contco = 0;
 
         for (Factura fact : facturasAPagar) {
-            if (fact.getEmpresa().getNombre().equals("Cessa")) {
+            if (fact.getEmpresa().getNombreEmpresa().equals("Cessa")) {
                 facturasCessa[contce++] = fact;
-            } else if (fact.getEmpresa().getNombre().equals("Cotes")) {
+            } else if (fact.getEmpresa().getNombreEmpresa().equals("Cotes")) {
                 facturasCotes[contco++] = fact;
             }
         }
