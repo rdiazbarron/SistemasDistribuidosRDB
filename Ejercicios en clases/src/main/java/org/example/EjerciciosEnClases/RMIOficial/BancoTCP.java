@@ -29,13 +29,13 @@ public class BancoTCP {
             System.out.println("Servidor iniciado en el puerto " + port);
 
             while (true) {
-                try (Socket client = server.accept(); // Acepta una conexión del cliente
+                try (Socket client = server.accept();
                      BufferedReader fromClient = new BufferedReader(new InputStreamReader(client.getInputStream()));
                      PrintStream toClient = new PrintStream(client.getOutputStream())) {
 
                     System.out.println("Cliente conectado");
 
-                    String recibido = fromClient.readLine(); // Lee la entrada del cliente
+                    String recibido = fromClient.readLine();
                     System.out.println("carnet recibido en banco tcp");
                     System.out.println(recibido);
                     String[] operacion = recibido.split(":");
@@ -46,8 +46,8 @@ public class BancoTCP {
                         //asi devolver: deudas:año,impuesto,monto; año2,impuesto2,monto2
                         String devolver ="deudas:";
                         for( Deuda d: deudasRecibidas){
-                            devolver = devolver + d.getAnio();
-                            devolver = devolver + d.getImpuesto();
+                            devolver = devolver + d.getAnio()+",";
+                            devolver = devolver + d.getImpuesto()+",";
                             devolver = devolver + d.getMonto();
                             devolver = devolver +";";
                         }
@@ -61,10 +61,10 @@ public class BancoTCP {
                         Deuda mideuda = new Deuda(datos[0],Integer.parseInt(datos[1]),datos[3],Double.parseDouble(datos[2]));
 
                         boolean resultado = ruat.pagar(mideuda);
-                        if (resultado==true){
+                        if (resultado==false){
                             mandar = "transaccion:false";
                         }
-                        if (resultado==false){
+                        if (resultado==true){
                             mandar = "transaccion:true";
                         }
 

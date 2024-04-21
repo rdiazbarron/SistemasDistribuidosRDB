@@ -25,8 +25,16 @@ public class RuatRMI extends UnicastRemoteObject implements IRuatRMI{
     @Override
     public boolean pagar(Deuda deuda) throws RemoteException, MalformedURLException, NotBoundException {
 
-        boolean resultado = consultarObs(deuda.getCi());
-        return resultado;
+        boolean resultado = consultarSuspendido(deuda.getCi());
+        if(resultado == true){
+            return false;
+        }
+        if(resultado == false){
+            boolean resultado2 = pagarDeudas(deuda);
+            return resultado2;
+        }
+        return false;
+
     }
 
 
@@ -52,7 +60,25 @@ public class RuatRMI extends UnicastRemoteObject implements IRuatRMI{
         return null;
     }
 
-    private boolean consultarObs(String ci) {
+    private boolean pagarDeudas(Deuda d){
+
+        if(d.getCi().equals("1234567") && d.getAnio() == 2022 && d.getImpuesto().equals("vehiculo") && d.getMonto() <= 2451){
+            return true;
+        }
+        if(d.getCi().equals("1234567") && d.getAnio() == 2022 && d.getImpuesto().equals("inmueble") && d.getMonto() <= 2500){
+            return true;
+        }
+        if(d.getCi().equals("555587") && d.getAnio() == 2021 && d.getImpuesto().equals("vehiculo") && d.getMonto() <= 2451){
+            return true;
+        }
+        if(d.getCi().equals("333357") && d.getAnio() == 2023 && d.getImpuesto().equals("inmueble") && d.getMonto() <= 24574){
+            return true;
+        }
+        return false;
+
+    }
+
+    private boolean consultarSuspendido(String ci) {
         Scanner sc = new Scanner(System.in);
         int puerto = 6789;
         ArrayList <Cuenta> cuentasUDP = new ArrayList<>();

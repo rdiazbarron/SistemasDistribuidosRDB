@@ -1,0 +1,43 @@
+# Archivos y directorios de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos y directorios de entorno virtual
+env/
+venv/
+.env
+.env.*
+
+# Archivos de base de datos
+*.sqlite3
+*.mysql
+*.postgresql
+
+# Archivos de caché y temporales
+.cache/
+*.log
+
+# Archivos de configuración local
+local_settings.py
+
+# Archivos de medios y archivos estáticos
+media/
+static/
+
+# Archivos de datos específicos del entorno
+data/
+
+# Archivos de IDE y editores de código
+.vscode/
+.idea/
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Otros archivos específicos del proyecto
+*.mp3
+*.mp4
+*.pdf

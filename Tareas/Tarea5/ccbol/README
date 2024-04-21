@@ -1,0 +1,6 @@
+pythom -m venv ccbol
+django-admin startproject myccbolproject
+
+cd to myccbolproject
+python manage.py startapp inscirptions
+pip isntall mysqlclient

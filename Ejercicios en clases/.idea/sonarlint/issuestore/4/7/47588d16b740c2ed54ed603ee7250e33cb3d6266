@@ -1,33 +1,45 @@
 
-	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ôã ûì1J$14644273-f301-4331-88e9-8ebcb486e84a
-	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Õã ûì1J$07582d1d-be3d-442c-bdc3-5fec3a7ef64e
-	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Õã ûì1J$b6c1933d-1d40-47f9-9bb1-56d055073a43
+	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8åÒý‘î1J$cc2866a8-da24-489f-a9da-748a240b106e
+	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æÒý‘î1J$4dab8776-afb7-4fe6-897c-8eb869f0c1ee
+	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8æÒý‘î1J$3bf83e60-350f-4009-8378-59bed298b50b
+‘
+java:S1192/"IDefine a constant instead of duplicating this literal "inmueble" 4 times.(«þ¿‡ýÿÿÿÿ8€Ø„’î1J$ad1d3e57-6825-48e8-8a64-c2caecb94ee3
 ‰
-java:S1192*"GDefine a constant instead of duplicating this literal "555587" 3 times.(¥ü¾*8¼Ñžûì1J$05926fbb-f3e7-4300-8cad-e56ef71c3c44
+java:S11922"GDefine a constant instead of duplicating this literal "555587" 4 times.(¥ü¾*8èÒý‘î1J$2c22e1c8-0518-474f-8778-983fb8e50a02
+‘
+java:S1192."IDefine a constant instead of duplicating this literal "vehiculo" 4 times.(úö­¡ÿÿÿÿÿ8‘Ü’î1J$680cf0ac-08ad-48d0-a2f0-0cdbf58d310f
 Š
-java:S1192$"HDefine a constant instead of duplicating this literal "1234567" 3 times.(€ÿû18¼Ñžûì1J$5ae377de-3453-4a05-a4af-94e64f743bba
+java:S1192,"HDefine a constant instead of duplicating this literal "1234567" 5 times.(€ÿû18èÒý‘î1J$81cfd27c-61e5-44f1-b81c-9c66f925b621
 ©
-java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "lasdeudas".(ã´»¤úÿÿÿÿ8½Ñžûì1J$87cad920-a160-406b-b865-3af862606ade
-ƒ
-java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "resultado".(ò¡Ôÿÿÿÿÿ8Û½Òûì1
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8¾Ñžûì1J$b4401bc3-55d6-43c4-bdab-ecd0d984ba38
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "lasdeudas".(ã´»¤úÿÿÿÿ8êÒý‘î1J$a59b51a9-8dec-4ee9-9d7c-955e895e14ab
+¥
+java:S1488!"bImmediately return this expression instead of assigning it to the temporary variable "resultado2".(öÓì°8êÒý‘î1J$6c47074b-0b60-41eb-aae6-d79bc2f9ecd1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8ëÒý‘î1J$8570e1a6-0d36-437b-a1fe-e045ec6ae4b9
 
-java:S2095B"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ðí±ô8ˆŸ°ûì1J$50a39846-9bc4-40fc-a9f9-43c7d5111bd0
-i
-java:S11684"&Return an empty array instead of null.(¥¹ï8ÆÑžûì1J$648b19d7-7da3-4042-bfc6-ab670ff8d706
-†
-java:S1854:">Remove this useless assignment to local variable "cuentasUDP".(–¥¦Öüÿÿÿÿ8¡Ñ°ûì1J$b68a13e6-9c3e-4aeb-81c6-eb830f1475f1
-~
-java:S18548"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8êã ûì1J$1d2c753d-c3fc-4aca-b216-d0b06ce9691b
+java:S2095\"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ðí±ô8úÒý‘î1J$ebd13fbd-05f5-4af0-8500-036eb6797284
+Y
+java:S2589 "7Remove this expression which always evaluates to "true"(×óÃ“úÿÿÿÿ8ƒÔ±’î1
 o
-java:S14818"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8ìã ûì1J$ade05967-b587-480f-8b88-7ad059ddbf88
+java:S1125"'Remove the unnecessary boolean literal.(óðæ§ýÿÿÿÿ8‚Óý‘î1J$8acdda8f-a14f-49f4-a8b2-37af7c956cd4
+o
+java:S1125 "'Remove the unnecessary boolean literal.(×óÃ“úÿÿÿÿ8‚Óý‘î1J$6e393b85-c682-4cc4-9eb5-72833ef2f9bc
+i
+java:S1168<"&Return an empty array instead of null.(¥¹ï8…Óý‘î1J$4a0e8295-ad8b-4050-a335-3c8b9a1d0017
+‰
+java:S1126J"AReplace this if-then-else statement by a single return statement.(ÑÓÐÝýÿÿÿÿ8ó‡†’î1J$f714780e-e087-42ab-bb62-997e477480a7
+†
+java:S1854T">Remove this useless assignment to local variable "cuentasUDP".(–¥¦Öüÿÿÿÿ8‡Óý‘î1J$ed53f29e-73fd-4427-84e8-f8d9ffa0dc72
+~
+java:S1854R"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8ˆÓý‘î1J$30fef543-39d1-4d1f-aceb-d1cbb5ea646e
+o
+java:S1481R"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8‹Óý‘î1J$a7138e47-1728-4b22-b4a7-640a2d546604
 w
-java:S1481:"/Remove this unused "cuentasUDP" local variable.(–¥¦Öüÿÿÿÿ8£Ñ°ûì1J$3d9320be-149e-43e4-ab10-453cf31cdb33
-‡
-java:S2147_"DCombine this catch with the one at line 93, which has the same body.(´ú§â8ìã ûì1J$2ae0ca5d-cbd4-4303-860a-6c20bbf828dc
-‡
-java:S2147a"DCombine this catch with the one at line 95, which has the same body.(ï­£Ä8ìã ûì1J$34d4e884-b157-4762-93e3-01ecfc756de7
-~	java:S125="<This block of commented-out lines of code should be removed.(¼ñ‡Ì8íã ûì1J$a5001180-7ae9-4604-9d99-e84bcf4b0642
-ƒ	java:S125["<This block of commented-out lines of code should be removed.(«ýÄãüÿÿÿÿ8ðã ûì1J$fbc61537-724f-4846-8190-6948df03ff3d
-™
-java:S1128"QRemove this unused import 'org.example.EjerciciosEnClases.RMIEjer1parcial.Banco'.(ñŸûøÿÿÿÿ8§Ñ°ûì1J$15847e9c-b1c9-441a-a2ae-d17ca3bccd9d
+java:S1481T"/Remove this unused "cuentasUDP" local variable.(–¥¦Öüÿÿÿÿ8‹Óý‘î1J$5bb83b1d-b055-47e0-9165-14232e94491c
+ˆ
+java:S2147y"ECombine this catch with the one at line 119, which has the same body.(´ú§â8ŒÓý‘î1J$54374162-cca9-4a39-8ae5-b25bbfb17e3f
+ˆ
+java:S2147{"ECombine this catch with the one at line 121, which has the same body.(ï­£Ä8ŒÓý‘î1J$e8247f1d-8907-424f-881f-9d1c470ed8ed
+~	java:S125W"<This block of commented-out lines of code should be removed.(¼ñ‡Ì8Óý‘î1J$c20c88a6-0783-4c98-8386-d1c17c8cbd1f
+ƒ	java:S125u"<This block of commented-out lines of code should be removed.(«ýÄãüÿÿÿÿ8‘Óý‘î1J$d3ea7a43-c222-48ac-af35-54dffa730507
+s
+java:S1128"QRemove this unused import 'org.example.EjerciciosEnClases.RMIEjer1parcial.Banco'.(ñŸûøÿÿÿÿ8–Ô±’î1
