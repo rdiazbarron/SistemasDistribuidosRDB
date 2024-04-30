@@ -1,0 +1,51 @@
+INFO 2024-04-21 12:57:36,975 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 13:04:09,957 autoreload Watching for file changes with StatReloader
+WARNING 2024-04-21 13:04:31,695 connection No hostname was supplied. Reverting to default 'localhost'
+WARNING 2024-04-21 13:04:31,722 log Not Found: /
+INFO 2024-04-21 13:07:42,205 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 13:07:42,816 autoreload Watching for file changes with StatReloader
+WARNING 2024-04-21 13:08:18,857 connection No hostname was supplied. Reverting to default 'localhost'
+WARNING 2024-04-21 13:08:18,878 log Not Found: /
+INFO 2024-04-21 13:14:45,240 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 13:14:56,765 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\views.py changed, reloading.
+INFO 2024-04-21 13:14:57,329 autoreload Watching for file changes with StatReloader
+WARNING 2024-04-21 13:15:13,391 connection No hostname was supplied. Reverting to default 'localhost'
+INFO 2024-04-21 13:16:24,726 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 13:16:25,298 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 13:16:26,616 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 13:16:27,149 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 13:16:29,500 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 13:16:30,041 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 13:16:38,533 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 13:16:39,082 autoreload Watching for file changes with StatReloader
+WARNING 2024-04-21 13:16:47,454 connection No hostname was supplied. Reverting to default 'localhost'
+INFO 2024-04-21 13:22:07,191 autoreload Watching for file changes with StatReloader
+WARNING 2024-04-21 13:22:44,658 connection No hostname was supplied. Reverting to default 'localhost'
+INFO 2024-04-21 13:28:28,634 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 13:28:29,238 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 21:44:39,424 autoreload Watching for file changes with StatReloader
+WARNING 2024-04-21 21:45:42,891 log Not Found: /
+WARNING 2024-04-21 21:45:56,768 connection No hostname was supplied. Reverting to default 'localhost'
+INFO 2024-04-21 22:04:44,948 autoreload Watching for file changes with StatReloader
+ERROR 2024-04-21 22:04:57,084 log Internal Server Error: /inscriptions/registro/
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\ccbol\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\ccbol\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\views.py", line 14, in registro_participante
+    send_welcome_email.delay(participante.correo_electronico, participante.nombre)
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'delay'
+INFO 2024-04-21 22:05:33,743 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\views.py changed, reloading.
+INFO 2024-04-21 22:05:34,315 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 22:06:39,342 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\inscriptions\tasks.py changed, reloading.
+INFO 2024-04-21 22:06:39,887 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 22:09:42,794 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 22:31:55,348 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 22:32:33,889 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\myccbolproject\settings.py changed, reloading.
+INFO 2024-04-21 22:32:34,439 autoreload Watching for file changes with StatReloader
+INFO 2024-04-21 22:47:51,926 autoreload C:\xampp\htdocs\SistemasDistribuidosRDB\Tareas\Tarea5\myccbolproject\myccbolproject\settings.py changed, reloading.
+INFO 2024-04-21 22:47:52,573 autoreload Watching for file changes with StatReloader

@@ -125,3 +125,5 @@ u
 Esrc/main/java/org/example/EjerciciosEnClases/RMIOficial/IRuatRMI.java,b\a\ba68e375c50f3b6b4f9a27c789a2d18093a51a09
 |
 Lsrc/main/java/org/example/EjerciciosEnClases/RMIOficial/ServidorRuatRMI.java,a\8\a80470512854dc193f3989d0e02a812a28971e30
+ˆ
+Xsrc/main/java/org/example/EjerciciosEnClases/consumirServicioJava/ConsumirServicios.java,7\9\79b649a9d76aad0cc2c0f9abd27aa091d5e03b99
