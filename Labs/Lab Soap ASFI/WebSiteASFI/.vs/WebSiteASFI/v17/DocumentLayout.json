@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1677B9F-5937-4970-8A0F-1A64C6A10A7F}|C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI|C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\websiteasfi\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1677B9F-5937-4970-8A0F-1A64C6A10A7F}|C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI|solutionrelative:websiteasfi\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1677B9F-5937-4970-8A0F-1A64C6A10A7F}|C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI|c:\\users\\diazb\\source\\repos\\websiteasfi\\websiteasfi\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1677B9F-5937-4970-8A0F-1A64C6A10A7F}|C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI|solutionrelative:websiteasfi\\app_code\\webservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI\\App_Code\\Cuenta.cs",
+              "RelativeDocumentMoniker": "WebSiteASFI\\App_Code\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI\\App_Code\\Cuenta.cs",
+              "RelativeToolTip": "WebSiteASFI\\App_Code\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:11:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebService.cs",
+              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI\\App_Code\\WebService.cs",
+              "RelativeDocumentMoniker": "WebSiteASFI\\App_Code\\WebService.cs",
+              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WebSiteASFI\\WebSiteASFI\\App_Code\\WebService.cs",
+              "RelativeToolTip": "WebSiteASFI\\App_Code\\WebService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:04:04.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

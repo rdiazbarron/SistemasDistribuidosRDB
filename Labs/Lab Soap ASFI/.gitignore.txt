@@ -1,0 +1,7 @@
+# Excluir todos los archivos
+*
+
+# Excepciones
+!*.cs
+!*.csproj
+!*.sln

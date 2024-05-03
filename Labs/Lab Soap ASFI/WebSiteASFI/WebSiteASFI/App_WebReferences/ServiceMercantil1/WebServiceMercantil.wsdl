@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="buscar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ci" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="nombres" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="apellidos" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="buscarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="buscarResult" type="tns:ArrayOfCuenta" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfCuenta">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Cuenta" nillable="true" type="tns:Cuenta" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Cuenta">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Banco" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="nrocuenta" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ci" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="nombres" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="apellidos" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="saldo" type="s:double" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="congelar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cuenta" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="monto" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="congelarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="congelarResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="buscarSoapIn">
+    <wsdl:part name="parameters" element="tns:buscar" />
+  </wsdl:message>
+  <wsdl:message name="buscarSoapOut">
+    <wsdl:part name="parameters" element="tns:buscarResponse" />
+  </wsdl:message>
+  <wsdl:message name="congelarSoapIn">
+    <wsdl:part name="parameters" element="tns:congelar" />
+  </wsdl:message>
+  <wsdl:message name="congelarSoapOut">
+    <wsdl:part name="parameters" element="tns:congelarResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceMercantilSoap">
+    <wsdl:operation name="buscar">
+      <wsdl:input message="tns:buscarSoapIn" />
+      <wsdl:output message="tns:buscarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="congelar">
+      <wsdl:input message="tns:congelarSoapIn" />
+      <wsdl:output message="tns:congelarSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceMercantilSoap" type="tns:WebServiceMercantilSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="buscar">
+      <soap:operation soapAction="http://tempuri.org/buscar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="congelar">
+      <soap:operation soapAction="http://tempuri.org/congelar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceMercantilSoap12" type="tns:WebServiceMercantilSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="buscar">
+      <soap12:operation soapAction="http://tempuri.org/buscar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="congelar">
+      <soap12:operation soapAction="http://tempuri.org/congelar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceMercantil">
+    <wsdl:port name="WebServiceMercantilSoap" binding="tns:WebServiceMercantilSoap">
+      <soap:address location="http://localhost:60048/WebServiceMercantil.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceMercantilSoap12" binding="tns:WebServiceMercantilSoap12">
+      <soap12:address location="http://localhost:60048/WebServiceMercantil.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
