@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|c:\\users\\diazb\\source\\repos\\winformssereci\\winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|solutionrelative:winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|solutionrelative:winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|c:\\users\\diazb\\source\\repos\\winformssereci\\winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|solutionrelative:winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|c:\\xampp\\htdocs\\sistemasdistribuidosrdb\\labs\\lab soap\\winformssereci\\winformssereci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|solutionrelative:winformssereci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|c:\\xampp\\htdocs\\sistemasdistribuidosrdb\\labs\\lab soap\\winformssereci\\winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97199775-A014-4378-8435-09218994BBDE}|WinFormsSereci\\WinFormsSereci.csproj|solutionrelative:winformssereci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsSereci\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\Program.cs",
+              "RelativeToolTip": "WinFormsSereci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:44:52.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsSereci\\Form1.cs",
-              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\Form1.cs",
               "RelativeToolTip": "WinFormsSereci\\Form1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wCAAAACnAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T01:44:32.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsSereci\\Form1.cs",
-              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsSereci\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T01:42:58.95Z",

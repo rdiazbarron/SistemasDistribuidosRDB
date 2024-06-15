@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsSereci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bbfc41e0e1445eb1282b01ff62827192097e789")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsSereci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsSereci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,7 +19,14 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
-        $this->call(UserSeeder::class);
+        
         $this->call(FacturaSeeder::class);
+        User::factory(1)->create([
+            'name' => 'Test User',
+            'email' => 'ricardo@gmail.com',
+            'role' => 0,
+            'password' => '12345678',
+
+        ]);
     }
 }

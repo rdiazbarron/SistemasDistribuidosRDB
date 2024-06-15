@@ -35,9 +35,6 @@ public class Cuenta
         this.apellidos = "";
         this.saldo = 0;
     }
-
-
-
 }
 
 

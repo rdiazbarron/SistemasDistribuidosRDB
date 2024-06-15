@@ -3012,11 +3012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\WinFormsSereci.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\WinFormsSereci.csproj",
       "projectName": "WinFormsSereci",
-      "projectPath": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\WinFormsSereci.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\WinFormsSereci.csproj",
       "packagesPath": "C:\\Users\\diazb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diazb\\source\\repos\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj": {}
+    "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diazb\\source\\repos\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj": {
+    "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diazb\\source\\repos\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj",
         "projectName": "WinFormsJuez",
-        "projectPath": "C:\\Users\\diazb\\source\\repos\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WinFormsJuez\\WinFormsJuez\\WinFormsJuez.csproj",
         "packagesPath": "C:\\Users\\diazb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diazb\\source\\repos\\WinFormsJuez\\WinFormsJuez\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WinFormsJuez\\WinFormsJuez\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "System.ServiceModel.Duplex": {
               "target": "Package",
               "version": "[6.0.*, )"

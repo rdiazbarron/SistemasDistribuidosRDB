@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez|c:\\users\\diazb\\source\\repos\\websitejuez\\websitejuez\\app_code\\webservicebcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez|solutionrelative:websitejuez\\app_code\\webservicebcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez|c:\\xampp\\htdocs\\sistemasdistribuidosrdb\\labs\\lab soap asfi\\websitebcp\\websitejuez\\app_code\\webservicebcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez|solutionrelative:websitejuez\\app_code\\webservicebcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez|C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\websitejuez\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez|c:\\xampp\\htdocs\\sistemasdistribuidosrdb\\labs\\lab soap asfi\\websitebcp\\websitejuez\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez|solutionrelative:websitejuez\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\websitejuez\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{802C7BBA-D979-457A-BB13-0B01341E8662}|C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez|solutionrelative:websitejuez\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez\\App_Code\\Cuenta.cs",
+              "RelativeDocumentMoniker": "WebSiteJuez\\App_Code\\Cuenta.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez\\App_Code\\Cuenta.cs",
+              "RelativeToolTip": "WebSiteJuez\\App_Code\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:01:08.002Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WebServiceBCP.cs",
-              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez\\App_Code\\WebServiceBCP.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez\\App_Code\\WebServiceBCP.cs",
               "RelativeDocumentMoniker": "WebSiteJuez\\App_Code\\WebServiceBCP.cs",
-              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez\\App_Code\\WebServiceBCP.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez\\App_Code\\WebServiceBCP.cs",
               "RelativeToolTip": "WebSiteJuez\\App_Code\\WebServiceBCP.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwBwAAABSAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T20:28:15.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez\\App_Code\\Cuenta.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez\\App_Code\\Cuenta.cs",
               "RelativeDocumentMoniker": "WebSiteJuez\\App_Code\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WebSiteJuez\\WebSiteJuez\\App_Code\\Cuenta.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteBCP\\WebSiteJuez\\App_Code\\Cuenta.cs",
               "RelativeToolTip": "WebSiteJuez\\App_Code\\Cuenta.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil|c:\\users\\diazb\\source\\repos\\websitemercantil\\websitemercantil\\app_code\\webservicemercantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil|solutionrelative:websitemercantil\\app_code\\webservicemercantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil|c:\\xampp\\htdocs\\sistemasdistribuidosrdb\\labs\\lab soap asfi\\websitemercantil\\websitemercantil\\app_code\\webservicemercantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil|solutionrelative:websitemercantil\\app_code\\webservicemercantil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil|C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\websitemercantil\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil|c:\\xampp\\htdocs\\sistemasdistribuidosrdb\\labs\\lab soap asfi\\websitemercantil\\websitemercantil\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil|solutionrelative:websitemercantil\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil|C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\websitemercantil\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0555D9FC-7771-4539-A758-31D597EA8145}|C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil|solutionrelative:websitemercantil\\app_code\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,30 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\Cuenta.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\Cuenta.cs",
               "RelativeDocumentMoniker": "WebSiteMercantil\\App_Code\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\Cuenta.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\Cuenta.cs",
+              "RelativeToolTip": "WebSiteMercantil\\App_Code\\Cuenta.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:56:17.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\Cuenta.cs",
+              "RelativeDocumentMoniker": "WebSiteMercantil\\App_Code\\Cuenta.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\Cuenta.cs",
               "RelativeToolTip": "WebSiteMercantil\\App_Code\\Cuenta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T21:09:47.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T21:09:47.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WebServiceMercantil.cs",
-              "DocumentMoniker": "C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\WebServiceMercantil.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\WebServiceMercantil.cs",
               "RelativeDocumentMoniker": "WebSiteMercantil\\App_Code\\WebServiceMercantil.cs",
-              "ToolTip": "C:\\Users\\diazb\\source\\repos\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\WebServiceMercantil.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap ASFI\\WebSiteMercantil\\WebSiteMercantil\\App_Code\\WebServiceMercantil.cs",
               "RelativeToolTip": "WebSiteMercantil\\App_Code\\WebServiceMercantil.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBwAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T21:07:55.721Z",
               "EditorCaption": ""

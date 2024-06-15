@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7lEyy0NrcrlzRcLldNVYQRceWogr+M4Naqa5cDKRQSBxrrlH1uIB6tj026hqooqXLS/k/TDwlk/mDsvcY6ZIw==",
+  "dgSpecHash": "8/RokpHKFdHxVQqJplxbZBCc+8kaTb1KeUfaXt/2583MiJ0muEnIbSev+b4BChS/KIp3mA2uFCYUDqMQY2ocNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diazb\\source\\repos\\WinFormsSereci\\WinFormsSereci\\WinFormsSereci.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\SistemasDistribuidosRDB\\Labs\\Lab Soap\\WinFormsSereci\\WinFormsSereci\\WinFormsSereci.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diazb\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\diazb\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
