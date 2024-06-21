@@ -22,10 +22,10 @@ java:S1488/"aImmediately return this expression instead of assigning it to the 
 java:S2095a"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8èŸıìì1J$fc59d58b-b8d8-4a0d-ae89-651c52dfb0ff
 ˆ
 java:S2095¹"DUse try-with-resources or close this "Socket" in a "finally" clause.(òÃÌç8èŸıìì1J$afc302de-3de8-4f26-b640-5ca3f7e9e624
-
-java:S2095Œ"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8èŸıìì1J$e35298c4-cfcb-496b-8470-fda5b8bcc1d1
 ‡
 java:S2095:"DUse try-with-resources or close this "Socket" in a "finally" clause.(òÃÌç8êÃøì1J$43c9e3da-c791-4ae3-ae1a-0463716ce9b1
+
+java:S2095Œ"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ğí±ô8èŸıìì1J$e35298c4-cfcb-496b-8470-fda5b8bcc1d1
 ‡
 java:S1854%"DRemove this useless assignment to local variable "cuentasGlobales2".(ëÏÜ8¢ÊÊìì1J$d29166c5-ca6a-49fa-b0cb-2b190246cfe7
 x

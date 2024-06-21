@@ -1,0 +1,15 @@
+
+y
+java:S1104"^Make clientesConectados a static final constant or non-public and provide accessors if needed.(µ¥³üýÿÿÿÿ
+k
+java:S1104"UMake preguntas a static final constant or non-public and provide accessors if needed.(Í€àÁ
+m
+java:S1104"XMake puntuaciones a static final constant or non-public and provide accessors if needed.(·õ’!
+S
+java:S1444"8Make this "public static clientesConectados" field final(µ¥³üýÿÿÿÿ
+E
+java:S1444"/Make this "public static preguntas" field final(Í€àÁ
+G
+java:S1444"2Make this "public static puntuaciones" field final(·õ’!
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¿Ççùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ë¿Å¨þÿÿÿÿ

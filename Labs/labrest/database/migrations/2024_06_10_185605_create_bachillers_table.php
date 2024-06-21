@@ -18,7 +18,7 @@ return new class extends Migration
                 $table->string('nombre', 50);
                 $table->string('apellido_paterno', 50);
                 $table->string('apellido_materno', 50);
-                $table->boolval('es_bachiller', TRUE);
+                
             $table->timestamps();
         });
     }

@@ -1,31 +1,19 @@
 import { gql } from 'apollo-server';
 
 const typeDefs = gql`
-  type Libro {
+  type Registro {
     id: ID!
-    titulo: String!
-    autor: String!
-    disponible: Boolean!
-  }
-
-  type Lector {
-    id: ID!
-    nombre: String!
-    librosPrestados: [Libro]
+    fecha: String!
+    temperatura: Int!
   }
 
   type Query {
-    libros: [Libro]
-    libro(id: ID!): Libro
-    lectores: [Lector]
-    lector(id: ID!): Lector
+    registros: [Registro]
+    registro(id: ID!): Registro
   }
 
   type Mutation {
-    agregarLibro(titulo: String!, autor: String!): Libro
-    agregarLector(nombre: String!): Lector
-    prestarLibro(idLector: ID!, idLibro: ID!): Libro
-    devolverLibro(idLector: ID!, idLibro: ID!): Libro
+    agregarRegistro(fecha: String!, temperatura: Int!): Registro
   }
 `;
 

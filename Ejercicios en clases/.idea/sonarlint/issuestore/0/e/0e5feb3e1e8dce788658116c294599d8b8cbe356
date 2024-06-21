@@ -1,0 +1,13 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ—ÙÍıÿÿÿÿJ$d8c0c63e-f5f6-4d71-807d-03d7eff76809
+
+java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¨ÚÔıÿÿÿÿ8Â™¼Øû1J$38083c3c-d1c4-4c44-a644-bdafe96d7657
+m	java:S106"+Replace this use of System.out by a logger.(é…•ö8ŒÜºØû1J$7038fa01-e779-4ebd-a72e-42415f990274
+m	java:S106"+Replace this use of System.out by a logger.(Ä¿Ïî8ŒÜºØû1J$8318138f-8d05-4828-ae1c-0771aa8ef4b4
+m	java:S106"+Replace this use of System.out by a logger.(é×Şø8ÜºØû1J$ad58d619-92d0-4af4-900a-08b3f95d46b6
+r	java:S106"+Replace this use of System.out by a logger.(î¤ßşÿÿÿÿ8ÜºØû1J$5364f487-c3e5-48bc-8690-78232e0a90e7
+m	java:S106 "+Replace this use of System.out by a logger.(‹‡‘8ÜºØû1J$afde3417-ca55-47f2-bc93-96c0ee5ff10d
+r	java:S106!"+Replace this use of System.out by a logger.(¸ø‰úÿÿÿÿ8ÜºØû1J$6eb986b5-67ed-497d-b303-2622cd4e2622
+m	java:S106""+Replace this use of System.out by a logger.(Ú‰ºÍ8ÜºØû1J$06c2d760-90a8-4225-b7f0-322b71c90df5
+š	java:S116("XRename this field "fecha_emision" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¾øƒ8ÜºØû1J$e898f919-0565-4dfb-8af9-03ddf0d1ec6a
+˜	java:S116+"VRename this field "monto_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‰Ğõ8ÜºØû1J$903d8dff-11a4-48aa-b05c-cb6a79ac488e

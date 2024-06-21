@@ -1,0 +1,14 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¿Ççùÿÿÿÿ
+_
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(Á“îêüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(æÆƒÁ
+@	java:S106"+Replace this use of System.out by a logger.(•¢¾ÿ
+E	java:S106"+Replace this use of System.out by a logger.(÷µçÈúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ôÌÜ¸øÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(°ïü_
+E	java:S106#"+Replace this use of System.out by a logger.(µç†¡øÿÿÿÿ
+C	java:S108,")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ

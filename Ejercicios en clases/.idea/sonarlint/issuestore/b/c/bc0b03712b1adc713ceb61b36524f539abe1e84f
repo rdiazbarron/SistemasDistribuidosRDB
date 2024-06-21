@@ -1,10 +1,10 @@
 
 
-java:S1104"NMake ci a static final constant or non-public and provide accessors if needed.(ÅË«i8ÂâĞøì1J$31b547d1-a62b-4c5a-92da-adf84ec840a9
+java:S1104"NMake ci a static final constant or non-public and provide accessors if needed.(ÅË«i8ÂâĞøì1J$47af901f-dde1-459f-a12c-c92525ce1341
 “
-java:S1104"PMake anio a static final constant or non-public and provide accessors if needed.(—íşã8ÂâĞøì1J$1c6b92c8-73d5-49ae-b713-1488519f51e4
+java:S1104"PMake anio a static final constant or non-public and provide accessors if needed.(—íşã8ÂâĞøì1J$da6ede46-d000-455e-a99e-31cbdda0ae66
 œ
-java:S1104	"TMake impuesto a static final constant or non-public and provide accessors if needed.(÷®ˆ şÿÿÿÿ8ÂâĞøì1J$e5f4b11b-3034-4a66-811f-c3a7f04aee02
+java:S1104	"TMake impuesto a static final constant or non-public and provide accessors if needed.(÷®ˆ şÿÿÿÿ8ÂâĞøì1J$0b6eed6d-a064-4b1c-8e7c-a5e412bd276d
 ™
-java:S1104"QMake monto a static final constant or non-public and provide accessors if needed.(¢¨Óøÿÿÿÿ8¬Ñøì1J$226bf662-34b4-4727-9beb-4875240de90e
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8ÃâĞøì1J$704cf80e-0343-497c-a13a-79f5bcf81de4
+java:S1104"QMake monto a static final constant or non-public and provide accessors if needed.(¢¨Óøÿÿÿÿ8¬Ñøì1J$f147e8d0-acb9-48fb-9cae-de882f6abd30
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8ÃâĞøì1J$28ba4ae9-3198-4f9e-b0b4-00fa4c6fb64a

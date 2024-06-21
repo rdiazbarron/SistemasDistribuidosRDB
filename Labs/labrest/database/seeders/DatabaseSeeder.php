@@ -27,7 +27,7 @@ class DatabaseSeeder extends Seeder
         $this->call(ClienteSeeder::class);
 
         $this->call(TituloSeeder::class);
-
+        $this->call(TempSeeder::class);
         
     }
 }

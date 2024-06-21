@@ -1,29 +1,29 @@
 
 x
-java:S1141 "5Extract this nested try block into a separate method.(Ôüâ8şìûì1J$49d828af-216e-4b16-bcff-6a264e922601
+java:S1141 "5Extract this nested try block into a separate method.(Ôüâ8şìûì1J$c495237a-1d36-42b4-ae6f-ebccd8d43f41
 d
-java:S16431"Use a StringBuilder instead.(¹Ş’úÿÿÿÿ8Ÿşìûì1J$a6f40ab2-0331-469e-bf80-09a7f38f08cc
+java:S16431"Use a StringBuilder instead.(¹Ş’úÿÿÿÿ8Ÿşìûì1J$68150d09-5dbf-472c-a419-9c56b9124c06
 _
-java:S16432"Use a StringBuilder instead.(Á‡”ñ8Ÿşìûì1J$be284117-f05d-48ea-b61f-8f8d3d1b5967
+java:S16432"Use a StringBuilder instead.(Á‡”ñ8Ÿşìûì1J$9d74fa2c-2501-4d1b-93c0-201a688321f1
 _
-java:S16433"Use a StringBuilder instead.(Ï…¿£8Ÿşìûì1J$19ab30ad-7de5-4d44-a212-c1eec1bf3e11
+java:S16433"Use a StringBuilder instead.(Ï…¿£8Ÿşìûì1J$372c9931-366f-43ac-b69a-74db7cd27e6f
 _
-java:S16434"Use a StringBuilder instead.(‘Æ¡æ8Ÿşìûì1J$55373291-d9c8-4781-987d-fc8f21ab4dc2
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8¡şìûì1J$a008f9c2-423a-4592-9c7b-fbd8132b3886
+java:S16434"Use a StringBuilder instead.(‘Æ¡æ8Ÿşìûì1J$056fbcb7-d585-4890-a3db-bc7d252093cc
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8¡şìûì1J$c060cf10-7bda-4ffe-bbe6-17fdc470bfed
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(îèŞ×8ÿìûì1J$8bd7e9f4-576a-4d77-a53a-00ccc93c4793
-r	java:S106"+Replace this use of System.out by a logger.(úšèçÿÿÿÿÿ8“ÿìûì1J$8688927b-8e61-4fd4-96c3-0330309b1afb
-m	java:S106$"+Replace this use of System.out by a logger.(ï8”ÿìûì1J$5fda911c-cbfe-49d2-b3d6-31cf8cdf428a
-m	java:S106'"+Replace this use of System.out by a logger.(ÕáÉí8”ÿìûì1J$d452244b-515c-4ff9-8517-ec881b6db697
-m	java:S106("+Replace this use of System.out by a logger.(õˆÅ·8”ÿìûì1J$2ef8a70a-1b57-4135-91aa-01550cd6db6d
-r	java:S106*"+Replace this use of System.out by a logger.(¸Ï°üùÿÿÿÿ8•ÿìûì1J$9477f849-2bd1-4b92-b101-b66ca4e8f530
-r	java:S106,"+Replace this use of System.out by a logger.(…§“Şÿÿÿÿÿ8•ÿìûì1J$276a189e-deb8-474f-8ebe-1380e460bdb6
-~	java:S125:"<This block of commented-out lines of code should be removed.(™Ãş›8–ÿìûì1J$34822445-9dbb-4d8b-8e17-b009c5f29490
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(îèŞ×8ÿìûì1J$bfbdb8d3-d85b-4d63-92d8-712ecb8b70af
+r	java:S106"+Replace this use of System.out by a logger.(úšèçÿÿÿÿÿ8“ÿìûì1J$a8e01d07-7e31-45d3-9d80-0632dd0c2a84
+m	java:S106$"+Replace this use of System.out by a logger.(ï8”ÿìûì1J$bc1f6f6a-25ff-4d57-807f-e0f281d59413
+m	java:S106'"+Replace this use of System.out by a logger.(ÕáÉí8”ÿìûì1J$5bbfb270-7a9e-4dfe-ab5e-b8d007158592
+m	java:S106("+Replace this use of System.out by a logger.(õˆÅ·8”ÿìûì1J$5c0f8f21-4aee-4a9e-98b3-7fb924cac6bc
+r	java:S106*"+Replace this use of System.out by a logger.(¸Ï°üùÿÿÿÿ8•ÿìûì1J$799b9fc9-ea16-41e7-a216-d26ca2e909c4
+r	java:S106,"+Replace this use of System.out by a logger.(…§“Şÿÿÿÿÿ8•ÿìûì1J$f04a2f0c-003c-45ff-8a9c-766aa3adcbf5
+~	java:S125:"<This block of commented-out lines of code should be removed.(™Ãş›8–ÿìûì1J$3e5d44aa-eecc-4b39-8534-2d815de5d0c5
 o
-java:S1125@"'Remove the unnecessary boolean literal.(×óÃ“úÿÿÿÿ8Üè‚üì1J$14c6703a-d82d-47dd-8b96-478c62c25601
+java:S1125@"'Remove the unnecessary boolean literal.(×óÃ“úÿÿÿÿ8Üè‚üì1J$bdf94b6a-7c8a-4020-a337-fe253bf161fe
 o
-java:S1125C"'Remove the unnecessary boolean literal.(óğæ§ıÿÿÿÿ8Ÿ“í‘î1J$b01b3d99-dccd-440a-8e7e-ce7e1f184d11
-r	java:S106M"+Replace this use of System.out by a logger.(ƒ°„ğÿÿÿÿÿ8˜ÿìûì1J$45dc9642-f0d1-47fc-b6cb-af442f0940ae
-r	java:S106Q"+Replace this use of System.out by a logger.(ã¬šöüÿÿÿÿ8˜ÿìûì1J$5675e580-8eb9-4342-97b4-fa21aebdeca4
+java:S1125C"'Remove the unnecessary boolean literal.(óğæ§ıÿÿÿÿ8Ÿ“í‘î1J$815a892c-eb1e-428a-97e8-8a640a214905
+r	java:S106M"+Replace this use of System.out by a logger.(ƒ°„ğÿÿÿÿÿ8˜ÿìûì1J$25a64b63-d94c-448d-ac6f-ac70bcc7ff63
+r	java:S106Q"+Replace this use of System.out by a logger.(ã¬šöüÿÿÿÿ8˜ÿìûì1J$a84ea88b-a4ac-4f54-b06e-4f882be7c05b
 ”
-java:S1128"QRemove this unused import 'org.example.EjerciciosEnClases.RMIEjer1parcial.IAsfi'.(©ĞÇó8İè‚üì1J$4a385854-b867-466c-83e5-77d383091ec5
+java:S1128"QRemove this unused import 'org.example.EjerciciosEnClases.RMIEjer1parcial.IAsfi'.(©ĞÇó8İè‚üì1J$435c9a32-96bb-4054-9189-6a08e5b8cecf

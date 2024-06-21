@@ -1,0 +1,30 @@
+
+y
+java:S1104	"^Make clientesConectados a static final constant or non-public and provide accessors if needed.(µ¥³üıÿÿÿÿ
+k
+java:S1104
+"UMake preguntas a static final constant or non-public and provide accessors if needed.(Í€àÁ
+m
+java:S1104"XMake puntuaciones a static final constant or non-public and provide accessors if needed.(·õ’!
+S
+java:S1444	"8Make this "public static clientesConectados" field final(µ¥³üıÿÿÿÿ
+E
+java:S1444
+"/Make this "public static preguntas" field final(Í€àÁ
+G
+java:S1444"2Make this "public static puntuaciones" field final(·õ’!
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Û¦â
+U
+java:S2259)"?A "NullPointerException" could be thrown; "s" is nullable here.(Æñ‘
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(®«ùú
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+8
+java:S2386	"Make this member "protected".(µ¥³üıÿÿÿÿ
+3
+java:S2386
+"Make this member "protected".(Í€àÁ
+2
+java:S2386"Make this member "protected".(·õ’!
+E	java:S106"+Replace this use of System.out by a logger.(Ë¿Å¨şÿÿÿÿ

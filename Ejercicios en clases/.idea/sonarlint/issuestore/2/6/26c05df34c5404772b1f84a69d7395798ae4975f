@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¿Ççùÿÿÿÿ
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ÛÄÚ‡ýÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‘ƒ®
+@	java:S106"+Replace this use of System.out by a logger.(ê®ží
+@	java:S106"+Replace this use of System.out by a logger.(ëŠ¢Ð
+E	java:S106*"+Replace this use of System.out by a logger.(ý™øøÿÿÿÿ
+?
+java:S21401")Use "java.util.Random.nextInt()" instead.(ŸŽ˜î
+?
+java:S21402")Use "java.util.Random.nextInt()" instead.(Žêç­
+?
+java:S21407")Use "java.util.Random.nextInt()" instead.(ŸŽ˜î
+?
+java:S21408")Use "java.util.Random.nextInt()" instead.(Žêç­
+?
+java:S2140=")Use "java.util.Random.nextInt()" instead.(ŸŽ˜î
+?
+java:S2140>")Use "java.util.Random.nextInt()" instead.(Žêç­
+?
+java:S2140C")Use "java.util.Random.nextInt()" instead.(ŸŽ˜î
+?
+java:S2140D")Use "java.util.Random.nextInt()" instead.(Žêç­

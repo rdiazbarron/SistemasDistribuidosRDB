@@ -1,0 +1,30 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜—ñ™ıÿÿÿÿ8ÈàÛ²ƒ2J$4f2f8e0a-4c36-4522-a3e5-c4cfc98e3005
+€
+java:S1854@"=Remove this useless assignment to local variable "reservado".(ßñì¼8×àÛ²ƒ2J$eab0534f-9a89-4f17-a9e4-baf6b46e5c3c
+m	java:S106"+Replace this use of System.out by a logger.(å”’Ò8ÙàÛ²ƒ2J$ebfa7305-208e-4f91-8a56-323099042da3
+m	java:S106 "+Replace this use of System.out by a logger.(¢€¤Ø8ÙàÛ²ƒ2J$e1bca390-4298-4d42-9bdc-2b819c4baa2c
+r	java:S106!"+Replace this use of System.out by a logger.(ĞÁûÕúÿÿÿÿ8ÚàÛ²ƒ2J$ef938587-ccd2-4d21-b542-ed69c0ad9f0e
+r	java:S106%"+Replace this use of System.out by a logger.(Ùü›»ÿÿÿÿÿ8ÛàÛ²ƒ2J$ee3af3e6-e1d1-44a5-a1cb-6d634b43cde7
+r	java:S106("+Replace this use of System.out by a logger.(¡Éä÷ıÿÿÿÿ8ÜàÛ²ƒ2J$f4e0b07c-f9b9-4022-b425-51c0f4a2cbe9
+r	java:S106+"+Replace this use of System.out by a logger.(á»Úıÿÿÿÿ8ÜàÛ²ƒ2J$4ca1e6e0-ac0c-43ea-8b18-5532fada2faf
+r	java:S106/"+Replace this use of System.out by a logger.(›˜îÌúÿÿÿÿ8ßàÛ²ƒ2J$8c87c679-6819-482b-a727-c95fb1b16e08
+r	java:S1064"+Replace this use of System.out by a logger.(Ùü›»ÿÿÿÿÿ8ààÛ²ƒ2J$ad65f898-8a82-4605-91f8-57da1067116d
+r	java:S1067"+Replace this use of System.out by a logger.(¡Éä÷ıÿÿÿÿ8ààÛ²ƒ2J$460a5797-92a9-49df-94bf-49c144b79e5c
+r	java:S106;"+Replace this use of System.out by a logger.( ‹ªÌüÿÿÿÿ8áàÛ²ƒ2J$094a8b0d-cf96-46a0-983f-f38d5343790a
+r	java:S106="+Replace this use of System.out by a logger.(¨øæßûÿÿÿÿ8ñ¼½³ƒ2J$20229523-f6a4-4382-8f23-cdf9b37619f1
+q
+java:S1481@".Remove this unused "reservado" local variable.(ßñì¼8âàÛ²ƒ2J$01965cfd-f161-498a-ae49-5955394fd379
+‹
+java:S1128"CRemove this unused import 'org.apache.http.io.SessionOutputBuffer'.(ÚÉµûÿÿÿÿ8£İÖºƒ2J$daafaf69-f6dc-48ac-a8f7-869364177a41
+—
+java:S1128"ORemove this unused import 'org.example.EjerciciosEnClases.RMIOficial.IRuatRMI'.(Ñ›¼Úúÿÿÿÿ8¥İÖºƒ2J$dd592847-99ed-4846-a8e6-c2b796b70111
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8§İÖºƒ2J$3465f079-1973-43fa-bb81-01b1575c0b26
+~
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8©İÖºƒ2J$820f39ab-c46f-4cda-8ffb-bcfbc240b01f
+z
+java:S1128	"7Remove this unused import 'java.rmi.NotBoundException'.(öã¥ç8«İÖºƒ2J$d87e09d3-f9c1-41b4-897b-cea5c6aa27d4
+}
+java:S1128
+"5Remove this unused import 'java.rmi.RemoteException'.(Ä÷àÿÿÿÿÿ8­İÖºƒ2J$9029bec6-216a-4a43-afbc-b6652e523f95

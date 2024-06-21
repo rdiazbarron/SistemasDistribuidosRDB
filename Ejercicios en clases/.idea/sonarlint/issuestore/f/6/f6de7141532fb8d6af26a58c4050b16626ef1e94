@@ -1,0 +1,24 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(õ¿¿œùÿÿÿÿ8¤Ëü³ƒ2J$626e8d66-419a-48ff-9b07-e9065a0aae8c
+­
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "valorrecibido".(Î¦€øÿÿÿÿ8‹Ú¸³ƒ2J$a30c599e-39f5-4245-be75-fa1522eb2e8b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜—ñ™ıÿÿÿÿ8§Ÿ·³ƒ2J$eef82b1b-1867-495b-8194-5f1864192728
+s
+java:S1128"0Remove this unused import 'javax.xml.transform'.(ÆÃ©8ûäÖºƒ2J$306369f7-9a1f-4688-94dc-ee3835f38b26
+z
+java:S1128"7Remove this unused import 'javax.xml.transform.stream'.(æ±ıÍ8üäÖºƒ2J$fa7ceed8-df85-40a5-90b5-e0a726f9344c
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ıäÖºƒ2J$ded6edde-aae3-4f2c-be61-8dbbbfc56657
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8şäÖºƒ2J$f93ecbef-60c4-48b9-98e7-05512f04b8a2
+y
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8åÖºƒ2J$8230a129-c8c5-40a9-a3ea-6e2dc805cad5
+z
+java:S1128"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8‚åÖºƒ2J$f2a89f3c-9176-4108-b8ae-0fd8534b7564
+~
+java:S1128	";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8ƒåÖºƒ2J$4c499861-746c-4f01-9c6b-92c31ad50a69
+
+java:S1128
+"7Remove this unused import 'java.net.ProtocolException'.(é­Èğûÿÿÿÿ8„åÖºƒ2J$52fd6b5b-6d56-400b-b334-7bfe35d61bb4
+q
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8†åÖºƒ2J$dd5fa6ed-0d39-48d7-a925-b3602fc9c43a

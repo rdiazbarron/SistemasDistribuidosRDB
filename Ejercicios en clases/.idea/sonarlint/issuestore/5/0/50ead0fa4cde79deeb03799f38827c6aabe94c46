@@ -1,27 +1,27 @@
 
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ֻת—8פקבתל1J$1bc0e874-9eec-4d27-bd10-03327be6964c
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ֻת—8פקבתל1J$2baf99a2-ed5f-4920-bdbe-2757daaf04d4
 ‡
-java:S2095A"DUse try-with-resources or close this "Socket" in a "finally" clause.(עֳּח8רקבתל1J$739898b2-0cd5-46c5-8c05-ba3ad259d110
+java:S2095A"DUse try-with-resources or close this "Socket" in a "finally" clause.(עֳּח8רקבתל1J$5fc6e5e0-543c-4788-8679-970291620c82
 ÷
-java:S1130"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(ß¼״»8‏קבתל1J$ecb9a973-fb64-4ff4-a66f-a6b4e88434ce
+java:S1130"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(ß¼״»8‎¨‏°ƒ2J$ad69870e-caab-404c-bc3c-2c919542f31c
 ¶
-java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(ß¼״»8‏קבתל1J$718d1083-f953-438c-a1c8-be011a63117e
+java:S1130"sRemove the declaration of thrown exception 'java.rmi.NotBoundException', as it cannot be thrown from method's body.(ß¼״»8‎¨‏°ƒ2J$3a9b86de-e275-4020-958a-2afdf5ed635e
 ´
-java:S1130"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(ß¼״»8‏קבתל1J$d5577994-e835-4bca-8ec8-cc8051d0bd28
-l	java:S106"+Replace this use of System.out by a logger.(ֱ¬†l8ÿקבתל1J$be56ff65-e762-4087-86be-8a91f912fa4a
-r	java:S106"+Replace this use of System.out by a logger.(ע‹ֹûÿÿÿÿ8ÿקבתל1J$3e62da06-a129-4432-bffb-d049267ee006
-r	java:S106"+Replace this use of System.out by a logger.(׀ֱûױתÿÿÿÿ8ÿקבתל1J$a7aba4ba-fc75-46ed-a7e4-4d4e836fc683
-m	java:S106!"+Replace this use of System.out by a logger.(ױמ₪ם8ÿקבתל1J$a9829c34-ec85-41af-9341-c3c2b5382fcb
-r	java:S106("+Replace this use of System.out by a logger.(‘ÞÜײרÿÿÿÿ8€רבתל1J$ae66a853-ee37-4e43-8225-7aca40fb8233
-r	java:S106*"+Replace this use of System.out by a logger.(‹ֽהחüÿÿÿÿ8€רבתל1J$dd3014cf-4db3-44a8-8ead-17e48dce9cb5
-m	java:S106,"+Replace this use of System.out by a logger.(’ֵÚר8€רבתל1J$fc99ccb7-9518-408e-a6c9-bf5e80c406f7
-m	java:S106."+Replace this use of System.out by a logger.(ÿה‰ִ8‚רבתל1J$00565609-a2f2-4d71-b2e6-c90d066f30f8
-m	java:S106K"+Replace this use of System.out by a logger.(ˆ÷ה8ƒרבתל1J$0e74eeee-a02c-4066-a647-3a07ba900ff0
-~	java:S125I"<This block of commented-out lines of code should be removed.(¹»ףא8ƒרבתל1J$df807399-eb60-44d9-bd49-b05de03a5d6d
-r	java:S106L"+Replace this use of System.out by a logger.(®‎בכûÿÿÿÿ8„רבתל1J$9820894e-ba08-4e39-9a01-ab8f0e3f728b
-r	java:S106N"+Replace this use of System.out by a logger.(‎™ררÿÿÿÿ8ßדתל1J$f1742f22-afe5-4bb2-9676-4d43b57fb90c
+java:S1130"qRemove the declaration of thrown exception 'java.rmi.RemoteException', as it cannot be thrown from method's body.(ß¼״»8‎¨‏°ƒ2J$a894d501-dbb5-44c0-b3bf-a4362b7b2e93
+l	java:S106"+Replace this use of System.out by a logger.(ֱ¬†l8ƒרבתל1J$206df4bd-a6ef-49d2-bb11-7e53620d2137
+r	java:S106"+Replace this use of System.out by a logger.(ע‹ֹûÿÿÿÿ8„רבתל1J$2246df6c-5483-48e4-9488-b63bd452a4d4
+r	java:S106"+Replace this use of System.out by a logger.(׀ֱûױתÿÿÿÿ8ßדתל1J$5d6b64fa-b56b-4f2c-bb8a-b81b3657b5aa
+m	java:S106!"+Replace this use of System.out by a logger.(ױמ₪ם8ÿ¨‏°ƒ2J$1add9055-6c46-4f39-ad9e-802601c0dea9
+r	java:S106("+Replace this use of System.out by a logger.(‘ÞÜײרÿÿÿÿ8ÿ¨‏°ƒ2J$fcead4a8-17a4-4db2-94c9-2ef2b627ad0b
+r	java:S106*"+Replace this use of System.out by a logger.(‹ֽהחüÿÿÿÿ8€©‏°ƒ2J$3a99b557-ec32-4dbf-b0f8-2cc8e128536d
+m	java:S106,"+Replace this use of System.out by a logger.(’ֵÚר8€©‏°ƒ2J$66512c9a-cee6-48d2-96e0-d07e1fe8e58b
+m	java:S106."+Replace this use of System.out by a logger.(ÿה‰ִ8€©‏°ƒ2J$f233be99-bd3c-4183-8422-5221560070c5
+m	java:S106K"+Replace this use of System.out by a logger.(ˆ÷ה8„©‏°ƒ2J$3bf2c4ce-c7cd-4bfb-b8df-dfab7dbe1983
+~	java:S125I"<This block of commented-out lines of code should be removed.(¹»ףא8ƒרבתל1J$c54c0afb-1185-4296-912a-54a23c69e30a
+r	java:S106L"+Replace this use of System.out by a logger.(®‎בכûÿÿÿÿ8…©‏°ƒ2J$78324edf-0efb-499b-bb14-f70ce5f70c3f
+r	java:S106N"+Replace this use of System.out by a logger.(‎™ררÿÿÿÿ8…©‏°ƒ2J$b53ae0b3-ac74-4b79-969f-3c37f2e3de8f
 o
 java:S1128
-",Remove this unused import 'java.rmi.Naming'.(Ü›¾¬8‎התל1J$3646e11b-e138-4924-93a8-2425017c6b4a
+",Remove this unused import 'java.rmi.Naming'.(Ü›¾¬8‎התל1J$4bc27e6e-a86d-44ec-a68b-d36e11f37900
 w
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ך₪עֳשÿÿÿÿ8‎התל1J$c4b3967d-7475-4f3d-a5ae-48178f92b3ea
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ך₪עֳשÿÿÿÿ8‎התל1J$6e2edb39-c910-4b16-b811-0ae67ddb5812

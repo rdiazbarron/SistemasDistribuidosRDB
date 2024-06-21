@@ -1,11 +1,11 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8ãÑÁûì1J$b147ce44-507d-4909-a04d-ba277a7d3019
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Ëú—8ãÑÁûì1J$f5f01d9b-7feb-4c92-abbf-0470a0d11ef4
 
-java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Âıû¨8¯ÌÃûì1J$1d626ded-22f8-4119-862c-2fa83104e54c
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Âıû¨8¯ÌÃûì1J$c20c22ba-73c3-4238-a574-f35fdbcd0434
 j
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8°ÌÃûì1J$36c9732a-1f48-4c0d-96d6-356b695c3852
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8°ÌÃûì1J$693cc6cb-aea7-4144-a6bf-714b4bd42733
 r
 java:S1197
-"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8çÑÁûì1J$0eb26148-7b51-4c9c-9155-e2034414e295
-m	java:S106-"+Replace this use of System.out by a logger.(Ãî±ã8ìÑÁûì1J$ad7c6793-a273-4758-9611-9ef01c957f87
-m	java:S106/"+Replace this use of System.out by a logger.(Ëú³©8íÑÁûì1J$9b0ed03e-c3b3-4303-ab08-7f62def1fb99
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8çÑÁûì1J$b94b9534-c61f-4b12-b053-aac0f81124fe
+m	java:S106-"+Replace this use of System.out by a logger.(Ãî±ã8ìÑÁûì1J$0ad9ca73-fc89-4a50-9ca9-0da34629669b
+m	java:S106/"+Replace this use of System.out by a logger.(Ëú³©8íÑÁûì1J$6490901e-7689-44bf-a73e-cfec447e1f74
